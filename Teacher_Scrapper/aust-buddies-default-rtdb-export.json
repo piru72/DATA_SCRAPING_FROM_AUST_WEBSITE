@@ -1,0 +1,2927 @@
+{
+  "Courses": {
+    "CHEM1115": {
+      "courseCode": "CHEM1115",
+      "courseName": "Chemistry",
+      "driveLink": "https://drive.google.com/drive/folders/1pEw3wy6tX9n6E_w1HcRnn8a13fIVZnSR?usp=sharing"
+    },
+    "CSE1101": {
+      "courseCode": "CSE1101",
+      "courseName": "Elementary Structured Programming",
+      "driveLink": "https://drive.google.com/drive/folders/1agl6ryeNMVWjHctQoYqYVTc8ieL5TCp_?usp=sharing"
+    },
+    "CSE1102": {
+      "courseCode": "CSE1102",
+      "courseName": "Elementary Structured Programming Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1aGn-ud0MvADn7qHLHSq15qEO1x1ZOpKG?usp=sharing"
+    },
+    "CSE1108": {
+      "courseCode": "CSE1108",
+      "courseName": "Introduction to Computer Systems",
+      "driveLink": "https://drive.google.com/drive/folders/1q2Vut7G3XIazK_nyOrjnWbp1EHroemz2?usp=sharing"
+    },
+    "CSE1200": {
+      "courseCode": "CSE1200",
+      "courseName": "Software Development-I",
+      "driveLink": "https://drive.google.com/drive/folders/1dqC0urdVVSADXxCFKr_Aowa3AeCesstr?usp=sharing"
+    },
+    "CSE1203": {
+      "courseCode": "CSE1203",
+      "courseName": "Discrete Mathematics",
+      "driveLink": "https://drive.google.com/drive/folders/1zAmfXH5LdTIvmMCRS1AoLnICcNnNT-6c?usp=sharing"
+    },
+    "CSE1205": {
+      "courseCode": "CSE1205",
+      "courseName": "Object Oriented Programming",
+      "driveLink": "https://drive.google.com/drive/folders/1smDZk16UgEtCiRuornMwmdDCOKbhy43k?usp=sharing"
+    },
+    "CSE1206": {
+      "courseCode": "CSE1206",
+      "courseName": "Object Oriented Programming Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1dqC0urdVVSADXxCFKr_Aowa3AeCesstr?usp=sharing"
+    },
+    "CSE2100": {
+      "courseCode": "CSE2100",
+      "courseName": "Software Development-II",
+      "driveLink": "https://drive.google.com/drive/folders/1k4JUpErYiLMPdV3wsq06AzyT-ynEvSDt?usp=sharing"
+    },
+    "CSE2103": {
+      "courseCode": "CSE2103",
+      "courseName": "Data Structures",
+      "driveLink": "https://drive.google.com/drive/folders/17Vnw-Xtu1yGFdRTFTWDssx8D5frGPDe5?usp=sharing"
+    },
+    "CSE2104": {
+      "courseCode": "CSE2104",
+      "courseName": "Data Structures Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1DyBWZiUr20Ok3brADVKdVOTFk89lmawF?usp=sharing"
+    },
+    "CSE2105": {
+      "courseCode": "CSE2105",
+      "courseName": "Digital Logic Design",
+      "driveLink": "https://drive.google.com/drive/folders/1QJMpbAD_484WmbpcCNZBotnmK83KAKWr?usp=sharing"
+    },
+    "CSE2106": {
+      "courseCode": "CSE2106",
+      "courseName": "Digital Logic Design Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1RyWRnsHAKte_tngpd9maJ2QrabMnyuE4?usp=sharing"
+    },
+    "CSE2200": {
+      "courseCode": "CSE2200",
+      "courseName": "Software Development-III",
+      "driveLink": "https://drive.google.com/drive/folders/13RM1tD9hKVtGwIlqkl3p137pdUQpruQj?usp=sharing"
+    },
+    "CSE2201": {
+      "courseCode": "CSE2201",
+      "courseName": "Numerical Methods",
+      "driveLink": "https://drive.google.com/drive/folders/1mk1fhI-n6vAcvwAAA90Tdsues43P4KKf?usp=sharing"
+    },
+    "CSE2202": {
+      "courseCode": "CSE2202",
+      "courseName": "Numerical Methods Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1d-s2a3ezzr-zv-QISAZAjejzPkWssTcZ?usp=sharing"
+    },
+    "CSE2207": {
+      "courseCode": "CSE2207",
+      "courseName": "Algorithms",
+      "driveLink": "https://drive.google.com/drive/folders/1Yu2iVV4du0T7zlLak8lBnvYx87AmYaIS?usp=sharing"
+    },
+    "CSE2208": {
+      "courseCode": "CSE2208",
+      "courseName": "Algorithms Lab",
+      "driveLink": "https://drive.google.com/drive/folders/16I6JD4YnKzKAH0vbMBsP9dpV9ORo0qaG?usp=sharing"
+    },
+    "CSE2211": {
+      "courseCode": "CSE2211",
+      "courseName": "Data Communication",
+      "driveLink": "https://drive.google.com/drive/folders/1bbiGPHtACMf_VMlxhOSulHk0NtTncgMB?usp=sharing"
+    },
+    "CSE2213": {
+      "courseCode": "CSE2213",
+      "courseName": "Computer Architecture",
+      "driveLink": "https://drive.google.com/drive/folders/12jMwXcbtjcbymP2g5YZOTgN-NOoUsC_-?usp=sharing"
+    },
+    "CSE2214": {
+      "courseCode": "CSE2214",
+      "courseName": "Assembly Language Programming",
+      "driveLink": "https://drive.google.com/drive/folders/1-NQur5k6U9YMnStDtqqSHrkYum3v8UVv?usp=sharing"
+    },
+    "CSE3100": {
+      "courseCode": "CSE3100",
+      "courseName": "Software Development-IV",
+      "driveLink": "https://drive.google.com/drive/folders/1F0yFjkB1u4RW0gbVO-mGTJGRRckmOMki?usp=sharing"
+    },
+    "CSE3101": {
+      "courseCode": "CSE3101",
+      "courseName": "Mathematical Analysis for Computer Science",
+      "driveLink": "https://drive.google.com/drive/folders/1Jn-ExuCd-1W5737Y_Pzs_1fDz6XGuF0S?usp=sharing"
+    },
+    "CSE3103": {
+      "courseCode": "CSE3103",
+      "courseName": "Database",
+      "driveLink": "https://drive.google.com/drive/folders/1s6oZP6kUsHqDhbUEN1td31h_d1WQgR0i?usp=sharing"
+    },
+    "CSE3104": {
+      "courseCode": "CSE3104",
+      "courseName": "Database Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1wdz1xiOLMO5BRX4so535FnYLHuz8Tb9Q?usp=sharing"
+    },
+    "CSE3109": {
+      "courseCode": "CSE3109",
+      "courseName": "Digital System Design",
+      "driveLink": "https://drive.google.com/drive/folders/1h46RBrx44gI-gXu9mTIhXbUIQYjCV0-s?usp=sharing"
+    },
+    "CSE3110": {
+      "courseCode": "CSE3110",
+      "courseName": "Digital System Design Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1NOqpISdmn20XReIrSN6CCUw-cawc_ilG?usp=sharing"
+    },
+    "CSE3117": {
+      "courseCode": "CSE3117",
+      "courseName": "Microprocessors and Microcontrollers",
+      "driveLink": "https://drive.google.com/drive/folders/1Dz7oLHaMw3crF3u16SyCXckDQNnXyqQm?usp=sharing"
+    },
+    "CSE3118": {
+      "courseCode": "CSE3118",
+      "courseName": "Microprocessors and Microcontrollers Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1loUBEyVDv5z6bA5v-ZPmlG6ktj-gzxjY?usp=sharing"
+    },
+    "CSE3200": {
+      "courseCode": "CSE3200",
+      "courseName": "Software Development-V",
+      "driveLink": "https://drive.google.com/drive/folders/1zSZr3wmcYHsqYei3thUOaOPse-QfxMz5?usp=sharing"
+    },
+    "CSE3201": {
+      "courseCode": "CSE3201",
+      "courseName": "Introduction to Computer Networks",
+      "driveLink": "https://drive.google.com/drive/folders/1OiIaknJjwYl_7exautNPb2c59ZwTmn60?usp=sharing"
+    },
+    "CSE3202": {
+      "courseCode": "CSE3202",
+      "courseName": "Introduction to Computer Networks Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1rWrkcS2nr1n9whm3tperE9cxuQbUf-E7?usp=sharing"
+    },
+    "CSE3207": {
+      "courseCode": "CSE3207",
+      "courseName": "Introduction to Artificial Intelligence",
+      "driveLink": "https://drive.google.com/drive/folders/1ZjlQtjNGimHtlSOQ54Uc8to7NFfQQRiM?usp=sharing"
+    },
+    "CSE3208": {
+      "courseCode": "CSE3208",
+      "courseName": "Introduction to Artificial Intelligence Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1VMOWGdSrNrKfxmtx0gvNkaFuEyByX9ZR?usp=sharing"
+    },
+    "CSE3213": {
+      "courseCode": "CSE3213",
+      "courseName": "Operating System",
+      "driveLink": "https://drive.google.com/drive/folders/1s4ndC1ZwTJtWXEI4Jgp_YLBeIBSJx5IQ?usp=sharing"
+    },
+    "CSE3214": {
+      "courseCode": "CSE3214",
+      "courseName": "Operating System Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1LFMjvLh2Tr0wsl-8Cj1yGYGlApriDmJt?usp=sharing"
+    },
+    "CSE3223": {
+      "courseCode": "CSE3223",
+      "courseName": "Information System Design and Software Engineering",
+      "driveLink": "https://drive.google.com/drive/folders/1dIYgQB2VuRjaqIBOGawPwbqO2vVcGMd4?usp=sharing"
+    },
+    "CSE3224": {
+      "courseCode": "CSE3224",
+      "courseName": "Information System Design and Software Engineering Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1K_RXf6WxOhLZFZswZL1T7yBRuV1jAZbg?usp=sharing"
+    },
+    "CSE4100": {
+      "courseCode": "CSE4100",
+      "courseName": "Project and Thesis-I",
+      "driveLink": "https://drive.google.com/drive/folders/14JmhxS8ltTndogYyRlbkV9uOXCXm7n6a?usp=sharing"
+    },
+    "CSE411": {
+      "courseCode": "CSE",
+      "courseName": "Option-I",
+      "driveLink": "https://drive.google.com/drive/folders/1yC58uT-vPrayxNGPqUYoOEu7LA-p1xbR?usp=sharing"
+    },
+    "CSE4113": {
+      "courseCode": "CSE4113",
+      "courseName": "Pattern Recognition and Machine Learning",
+      "driveLink": "https://drive.google.com/drive/folders/1AD5D555QVbYimnfJHNTxgqs-ao7hM5AD?usp=sharing"
+    },
+    "CSE4114": {
+      "courseCode": "CSE4114",
+      "courseName": "Pattern Recognition and Machine Learning Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1voLYuDXsrSmHc_vYq4Hofdr3sRR3xOJL?usp=sharing"
+    },
+    "CSE412": {
+      "courseCode": "CSE",
+      "courseName": "Option-I Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1hs2_0mxLD40_tTAg97iPQ2FyPGFU7yVr?usp=sharing"
+    },
+    "CSE4129": {
+      "courseCode": "CSE4129",
+      "courseName": "Formal Languages and Compilers",
+      "driveLink": "https://drive.google.com/drive/folders/1_sSTU7GGAuUHvP7kitDiMPJVEsWw-VRb?usp=sharing"
+    },
+    "CSE413": {
+      "courseCode": "CSE",
+      "courseName": "Option-II",
+      "driveLink": "https://drive.google.com/drive/folders/16I8yN_nuz8ll0_wDBaII-m2Kbl6uv4Ul?usp=sharing"
+    },
+    "CSE4130": {
+      "courseCode": "CSE4130",
+      "courseName": "Formal Languages and Compilers Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1jwW3bSCYt_DVilsnHdJX0y1stmPGLIr2?usp=sharing"
+    },
+    "CSE414": {
+      "courseCode": "CSE",
+      "courseName": "Option-II Lab",
+      "driveLink": "https://drive.google.com/drive/folders/167-2KAsxa3V7YdSUUX_FXXnn9jUp2z4L?usp=sharing"
+    },
+    "CSE4203": {
+      "courseCode": "CSE4203",
+      "courseName": "Computer Graphics",
+      "driveLink": "https://drive.google.com/drive/folders/1U0nbXv50TsEO3u9tn8P-YtrDpwiEHQxd?usp=sharing"
+    },
+    "CSE4204": {
+      "courseCode": "CSE4204",
+      "courseName": "Computer Graphics Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1l7yobpFljwn2wihk1QMq-GwCaeeBGF83?usp=sharing"
+    },
+    "CSE421": {
+      "courseCode": "CSE",
+      "courseName": "Option-III (COMPUTER VISION)",
+      "driveLink": "https://drive.google.com/drive/folders/16sfe1yUbtSboxdOTyr2mTE294LPM6tmQ?usp=sharing"
+    },
+    "CSE422": {
+      "courseCode": "CSE",
+      "courseName": "Option-III Lab (Computer Vision lab)",
+      "driveLink": "https://drive.google.com/drive/folders/1T5P4bwUyvrvZ1zKej8ILv2hajiKaS-tI?usp=sharing"
+    },
+    "CSE423": {
+      "courseCode": "CSE",
+      "courseName": "Option-IV",
+      "driveLink": "https://drive.google.com/drive/folders/1nrWbSRjYmkVpr0t6pNAa8fy_xzWKw7Sn?usp=sharing"
+    },
+    "CSE424": {
+      "courseCode": "CSE",
+      "courseName": "Option-IV Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1DhLD1WIKxTlpvmZUs_yELF8yPXmWz8jY?usp=sharing"
+    },
+    "CSE425": {
+      "courseCode": "CSE",
+      "courseName": "Option-V",
+      "driveLink": "https://drive.google.com/drive/folders/1Rg1tdCvI4EOAdn9xRcArcwFihMIQPud1?usp=sharing"
+    },
+    "CSE4250": {
+      "courseCode": "CSE4250",
+      "courseName": "Project and Thesis-II",
+      "driveLink": "https://drive.google.com/drive/folders/1M5-mgrFOA1MbHkvSD84RRonWqQlOJygk?usp=sharing"
+    },
+    "EEE1241": {
+      "courseCode": "EEE1241",
+      "courseName": "Basic Electrical Engineering",
+      "driveLink": "https://drive.google.com/drive/folders/1HvlXeB_u1AEYrj2VBpInXzRbVJuXC_Va?usp=sharing"
+    },
+    "EEE1242": {
+      "courseCode": "EEE1242",
+      "courseName": "Basic Electrical Engineering Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1HvlXeB_u1AEYrj2VBpInXzRbVJuXC_Va?usp=sharingg"
+    },
+    "EEE2141": {
+      "courseCode": "EEE2141",
+      "courseName": "Electronic Devices and Circuits",
+      "driveLink": "https://drive.google.com/drive/folders/1fETEK9J-glYloVA6DkIV3m8H7rB_56au?usp=sharing"
+    },
+    "EEE2142": {
+      "courseCode": "EEE2142",
+      "courseName": "Electronic Devices and Circuits Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1USHUUG9_WatapVjzmrbXbbXjoFen-fx9?usp=sharing"
+    },
+    "EIGHTH Semester": {
+      "courseCode": "EIGHTH Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1YJ1BgSAkPp0mJ6Xcr0xH_tjsT99ESAvv?usp=sharing"
+    },
+    "FIFTH Semester": {
+      "courseCode": "FIFTH Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1MHXMkVB0oSyXmxvJ2Slf1yIVWOdZPNBj?usp=sharing"
+    },
+    "First Semester": {
+      "courseCode": "Fourth Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1xaoBooX3GOto3iZ1zsd3f4Nd3wYBwhVf?usp=sharing"
+    },
+    "Fourth Semester": {
+      "courseCode": "Fourth Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1YZPHCbzdTkzyn3w6I5HrMdNSOsHVS8P0?usp=sharing"
+    },
+    "HUM1107": {
+      "courseCode": "HUM1107",
+      "courseName": "Critical Thinking and Communication",
+      "driveLink": "https://drive.google.com/drive/folders/1q8-D23pHJBDyKGk4QggcpvO1yd5lPJIx?usp=sharing"
+    },
+    "HUM1108": {
+      "courseCode": "HUM1108",
+      "courseName": "English Language Sessional",
+      "driveLink": "https://drive.google.com/drive/folders/1FxgTYtFLXx2lrxD2Dr6GsWvaby6ZPGFq?usp=sharing"
+    },
+    "HUM2109": {
+      "courseCode": "HUM2109",
+      "courseName": "Society, Ethics and Technology",
+      "driveLink": "https://drive.google.com/drive/folders/14Ev19kxWtjCbZhYtyFhMKMtUNGQbSxSm?usp=sharing"
+    },
+    "HUM3115": {
+      "courseCode": "HUM3115",
+      "courseName": "Economics and Accounting",
+      "driveLink": "https://drive.google.com/drive/folders/1xUadAw_SWMrpwVKlmUjHGlG__bNCncLy?usp=sharing"
+    },
+    "HUM3207": {
+      "courseCode": "HUM3207",
+      "courseName": "Industrial Law and Safety Management",
+      "driveLink": "https://drive.google.com/drive/folders/1gbIQyLpOksoLMKk8_HifloPlNsfRahst?usp=sharing"
+    },
+    "IPE4111": {
+      "courseCode": "IPE4111",
+      "courseName": "Industrial Management",
+      "driveLink": "https://drive.google.com/drive/folders/1jIWml4-3NFgrKHBVj1YACbJbWW8lidZM?usp=sharing"
+    },
+    "MATH1115": {
+      "courseCode": "MATH1115",
+      "courseName": "Mathematics-I",
+      "driveLink": "https://drive.google.com/drive/folders/1BtvZU7E-78O9nh7MZz7cBPhxUEfHE3bO?usp=sharing"
+    },
+    "MATH1219": {
+      "courseCode": "MATH1219",
+      "courseName": "Mathematics-II",
+      "driveLink": "https://drive.google.com/drive/folders/1VkS_Ow-w5PzsSdcBFlKAwWqVQwUHCyE2?usp=sharing"
+    },
+    "MATH2101": {
+      "courseCode": "MATH2101",
+      "courseName": "Mathematics-III",
+      "driveLink": "https://drive.google.com/drive/folders/1cMr1HqI43p0rw7p9AV0vudmW6PFsoMUu?usp=sharing"
+    },
+    "MATH2203": {
+      "courseCode": "MATH2203",
+      "courseName": "Mathematics- IV",
+      "driveLink": "https://drive.google.com/drive/folders/1q7TM_3tEAQQCozx6Zg-iMOSS-P24FQz8?usp=sharing"
+    },
+    "ME1211": {
+      "courseCode": "ME1211",
+      "courseName": "Basic Mechanical Engineering",
+      "driveLink": "https://drive.google.com/drive/folders/1R8SlmWwBrcEdod-EoKvzvX_C-L2gTrX4?usp=sharing"
+    },
+    "ME1214": {
+      "courseCode": "ME1214",
+      "courseName": "Engineering Drawing",
+      "driveLink": "https://drive.google.com/drive/folders/1R8SlmWwBrcEdod-EoKvzvX_C-L2gTrX4?usp=sharingg"
+    },
+    "PHY1115": {
+      "courseCode": "PHY1115",
+      "courseName": "Physics",
+      "driveLink": "https://drive.google.com/drive/folders/1TJS6hrGrFwZiCbblO4pmnKu26D9X7S6B?usp=sharing"
+    },
+    "PHY1116": {
+      "courseCode": "PHY1116",
+      "courseName": "Physics Lab",
+      "driveLink": "https://drive.google.com/drive/folders/1QdyD7i1Y27J2Wzdu_9GHoHv1RWCK9xlr?usp=sharing"
+    },
+    "SECOND Semester": {
+      "courseCode": "SECOND Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1HzHZqqtF6C1CGv7WPgYxg0rF7nSJjdZC?usp=sharing"
+    },
+    "SEVENTH Semester": {
+      "courseCode": "SEVENTH Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1XfTq2_6flhp1ZzDFrZZoz3BGQ9ow4KJa?usp=sharing"
+    },
+    "SIXTH Semester": {
+      "courseCode": "SIXTH Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1YwEZLU6f6HG1V3YI-3G1CR9aHwViB2LX?usp=sharing"
+    },
+    "THIRD Semester": {
+      "courseCode": "THIRD Semester",
+      "courseName": "Semester Final Question",
+      "driveLink": "https://drive.google.com/drive/folders/1CVdDBJ2l_rdbTZ88Z4MoIeXBonZkHtV-?usp=sharing"
+    }
+  },
+  "admin-bug-reports": {
+    "-NIyHl_zAEkvBabjzkPZ": {
+      "key": "-NIyHl_zAEkvBabjzkPZ",
+      "reportDetails": "There Is no copy paste text option here add it ",
+      "reportersDetails": "parvez.cse.200104129@aust.edu",
+      "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+    },
+    "-NJCS1II97CM-ngDwqh3": {
+      "key": "-NJCS1II97CM-ngDwqh3",
+      "reportDetails": "If possible, arrange to see the location of the bus through the app. Sometimes it is difficult to match the time schedule due to traffic jams. If the location is found, time will also be saved + suffering will be reduced a little.",
+      "reportersDetails": "tajuddin.eee.20220105208@aust.edu",
+      "userId": "oP1wF72zcLVcb4rMNxoF6Wlxe3v1"
+    }
+  },
+  "course-list": {
+    "CSE": {
+      "year1semester1": {
+        "CHEM1115": {
+          "courseCode": "CHEM1115",
+          "courseName": "Chemistry",
+          "driveLink": "https://drive.google.com/drive/folders/1pEw3wy6tX9n6E_w1HcRnn8a13fIVZnSR?usp=sharing"
+        },
+        "CSE1101": {
+          "courseCode": "CSE1101",
+          "courseName": "Elementary Structured Programming",
+          "driveLink": "https://drive.google.com/drive/folders/1agl6ryeNMVWjHctQoYqYVTc8ieL5TCp_?usp=sharing"
+        },
+        "CSE1102": {
+          "courseCode": "CSE1102",
+          "courseName": "Elementary Structured Programming Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1aGn-ud0MvADn7qHLHSq15qEO1x1ZOpKG?usp=sharing"
+        },
+        "CSE1108": {
+          "courseCode": "CSE1108",
+          "courseName": "Introduction to Computer Systems",
+          "driveLink": "https://drive.google.com/drive/folders/1q2Vut7G3XIazK_nyOrjnWbp1EHroemz2?usp=sharing"
+        },
+        "First Semester": {
+          "courseCode": "Fourth Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1xaoBooX3GOto3iZ1zsd3f4Nd3wYBwhVf?usp=sharing"
+        },
+        "HUM1107": {
+          "courseCode": "HUM1107",
+          "courseName": "Critical Thinking and Communication",
+          "driveLink": "https://drive.google.com/drive/folders/1q8-D23pHJBDyKGk4QggcpvO1yd5lPJIx?usp=sharing"
+        },
+        "HUM1108": {
+          "courseCode": "HUM1108",
+          "courseName": "English Language Sessional",
+          "driveLink": "https://drive.google.com/drive/folders/1FxgTYtFLXx2lrxD2Dr6GsWvaby6ZPGFq?usp=sharing"
+        },
+        "MATH1115": {
+          "courseCode": "MATH1115",
+          "courseName": "Mathematics-I",
+          "driveLink": "https://drive.google.com/drive/folders/1BtvZU7E-78O9nh7MZz7cBPhxUEfHE3bO?usp=sharing"
+        },
+        "PHY1115": {
+          "courseCode": "PHY1115",
+          "courseName": "Physics",
+          "driveLink": "https://drive.google.com/drive/folders/1TJS6hrGrFwZiCbblO4pmnKu26D9X7S6B?usp=sharing"
+        },
+        "PHY1116": {
+          "courseCode": "PHY1116",
+          "courseName": "Physics Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1QdyD7i1Y27J2Wzdu_9GHoHv1RWCK9xlr?usp=sharing"
+        }
+      },
+      "year1semester2": {
+        "CSE1200": {
+          "courseCode": "CSE1200",
+          "courseName": "Software Development-I",
+          "driveLink": "https://drive.google.com/drive/folders/1dqC0urdVVSADXxCFKr_Aowa3AeCesstr?usp=sharing"
+        },
+        "CSE1203": {
+          "courseCode": "CSE1203",
+          "courseName": "Discrete Mathematics",
+          "driveLink": "https://drive.google.com/drive/folders/1zAmfXH5LdTIvmMCRS1AoLnICcNnNT-6c?usp=sharing"
+        },
+        "CSE1205": {
+          "courseCode": "CSE1205",
+          "courseName": "Object Oriented Programming",
+          "driveLink": "https://drive.google.com/drive/folders/1smDZk16UgEtCiRuornMwmdDCOKbhy43k?usp=sharing"
+        },
+        "CSE1206": {
+          "courseCode": "CSE1206",
+          "courseName": "Object Oriented Programming Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1dqC0urdVVSADXxCFKr_Aowa3AeCesstr?usp=sharing"
+        },
+        "EEE1241": {
+          "courseCode": "EEE1241",
+          "courseName": "Basic Electrical Engineering",
+          "driveLink": "https://drive.google.com/drive/folders/1HvlXeB_u1AEYrj2VBpInXzRbVJuXC_Va?usp=sharing"
+        },
+        "EEE1242": {
+          "courseCode": "EEE1242",
+          "courseName": "Basic Electrical Engineering Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1HvlXeB_u1AEYrj2VBpInXzRbVJuXC_Va?usp=sharingg"
+        },
+        "MATH1219": {
+          "courseCode": "MATH1219",
+          "courseName": "Mathematics-II",
+          "driveLink": "https://drive.google.com/drive/folders/1VkS_Ow-w5PzsSdcBFlKAwWqVQwUHCyE2?usp=sharing"
+        },
+        "ME1211": {
+          "courseCode": "ME1211",
+          "courseName": "Basic Mechanical Engineering",
+          "driveLink": "https://drive.google.com/drive/folders/1R8SlmWwBrcEdod-EoKvzvX_C-L2gTrX4?usp=sharing"
+        },
+        "ME1214": {
+          "courseCode": "ME1214",
+          "courseName": "Engineering Drawing",
+          "driveLink": "https://drive.google.com/drive/folders/1R8SlmWwBrcEdod-EoKvzvX_C-L2gTrX4?usp=sharingg"
+        },
+        "SECOND Semester": {
+          "courseCode": "SECOND Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1HzHZqqtF6C1CGv7WPgYxg0rF7nSJjdZC?usp=sharing"
+        }
+      },
+      "year2semester1": {
+        "CSE2100": {
+          "courseCode": "CSE2100",
+          "courseName": "Software Development-II",
+          "driveLink": "https://drive.google.com/drive/folders/1k4JUpErYiLMPdV3wsq06AzyT-ynEvSDt?usp=sharing"
+        },
+        "CSE2103": {
+          "courseCode": "CSE2103",
+          "courseName": "Data Structures",
+          "driveLink": "https://drive.google.com/drive/folders/17Vnw-Xtu1yGFdRTFTWDssx8D5frGPDe5?usp=sharing"
+        },
+        "CSE2104": {
+          "courseCode": "CSE2104",
+          "courseName": "Data Structures Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1DyBWZiUr20Ok3brADVKdVOTFk89lmawF?usp=sharing"
+        },
+        "CSE2105": {
+          "courseCode": "CSE2105",
+          "courseName": "Digital Logic Design",
+          "driveLink": "https://drive.google.com/drive/folders/1QJMpbAD_484WmbpcCNZBotnmK83KAKWr?usp=sharing"
+        },
+        "CSE2106": {
+          "courseCode": "CSE2106",
+          "courseName": "Digital Logic Design Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1RyWRnsHAKte_tngpd9maJ2QrabMnyuE4?usp=sharing"
+        },
+        "EEE2141": {
+          "courseCode": "EEE2141",
+          "courseName": "Electronic Devices and Circuits",
+          "driveLink": "https://drive.google.com/drive/folders/1fETEK9J-glYloVA6DkIV3m8H7rB_56au?usp=sharing"
+        },
+        "EEE2142": {
+          "courseCode": "EEE2142",
+          "courseName": "Electronic Devices and Circuits Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1USHUUG9_WatapVjzmrbXbbXjoFen-fx9?usp=sharing"
+        },
+        "HUM2109": {
+          "courseCode": "HUM2109",
+          "courseName": "Society, Ethics and Technology",
+          "driveLink": "https://drive.google.com/drive/folders/14Ev19kxWtjCbZhYtyFhMKMtUNGQbSxSm?usp=sharing"
+        },
+        "MATH2101": {
+          "courseCode": "MATH2101",
+          "courseName": "Mathematics-III",
+          "driveLink": "https://drive.google.com/drive/folders/1cMr1HqI43p0rw7p9AV0vudmW6PFsoMUu?usp=sharing"
+        },
+        "THIRD Semester": {
+          "courseCode": "THIRD Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1CVdDBJ2l_rdbTZ88Z4MoIeXBonZkHtV-?usp=sharing"
+        }
+      },
+      "year2semester2": {
+        "CSE2200": {
+          "courseCode": "CSE2200",
+          "courseName": "Software Development-III",
+          "driveLink": "https://drive.google.com/drive/folders/13RM1tD9hKVtGwIlqkl3p137pdUQpruQj?usp=sharing"
+        },
+        "CSE2201": {
+          "courseCode": "CSE2201",
+          "courseName": "Numerical Methods",
+          "driveLink": "https://drive.google.com/drive/folders/1mk1fhI-n6vAcvwAAA90Tdsues43P4KKf?usp=sharing"
+        },
+        "CSE2202": {
+          "courseCode": "CSE2202",
+          "courseName": "Numerical Methods Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1d-s2a3ezzr-zv-QISAZAjejzPkWssTcZ?usp=sharing"
+        },
+        "CSE2207": {
+          "courseCode": "CSE2207",
+          "courseName": "Algorithms",
+          "driveLink": "https://drive.google.com/drive/folders/1Yu2iVV4du0T7zlLak8lBnvYx87AmYaIS?usp=sharing"
+        },
+        "CSE2208": {
+          "courseCode": "CSE2208",
+          "courseName": "Algorithms Lab",
+          "driveLink": "https://drive.google.com/drive/folders/16I6JD4YnKzKAH0vbMBsP9dpV9ORo0qaG?usp=sharing"
+        },
+        "CSE2211": {
+          "courseCode": "CSE2211",
+          "courseName": "Data Communication",
+          "driveLink": "https://drive.google.com/drive/folders/1bbiGPHtACMf_VMlxhOSulHk0NtTncgMB?usp=sharing"
+        },
+        "CSE2213": {
+          "courseCode": "CSE2213",
+          "courseName": "Computer Architecture",
+          "driveLink": "https://drive.google.com/drive/folders/12jMwXcbtjcbymP2g5YZOTgN-NOoUsC_-?usp=sharing"
+        },
+        "CSE2214": {
+          "courseCode": "CSE2214",
+          "courseName": "Assembly Language Programming",
+          "driveLink": "https://drive.google.com/drive/folders/1-NQur5k6U9YMnStDtqqSHrkYum3v8UVv?usp=sharing"
+        },
+        "Fourth Semester": {
+          "courseCode": "Fourth Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1YZPHCbzdTkzyn3w6I5HrMdNSOsHVS8P0?usp=sharing"
+        },
+        "MATH2203": {
+          "courseCode": "MATH2203",
+          "courseName": "Mathematics- IV",
+          "driveLink": "https://drive.google.com/drive/folders/1q7TM_3tEAQQCozx6Zg-iMOSS-P24FQz8?usp=sharing"
+        }
+      },
+      "year3semester1": {
+        "CSE3100": {
+          "courseCode": "CSE3100",
+          "courseName": "Software Development-IV",
+          "driveLink": "https://drive.google.com/drive/folders/1F0yFjkB1u4RW0gbVO-mGTJGRRckmOMki?usp=sharing"
+        },
+        "CSE3101": {
+          "courseCode": "CSE3101",
+          "courseName": "Mathematical Analysis for Computer Science",
+          "driveLink": "https://drive.google.com/drive/folders/1Jn-ExuCd-1W5737Y_Pzs_1fDz6XGuF0S?usp=sharing"
+        },
+        "CSE3103": {
+          "courseCode": "CSE3103",
+          "courseName": "Database",
+          "driveLink": "https://drive.google.com/drive/folders/1s6oZP6kUsHqDhbUEN1td31h_d1WQgR0i?usp=sharing"
+        },
+        "CSE3104": {
+          "courseCode": "CSE3104",
+          "courseName": "Database Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1wdz1xiOLMO5BRX4so535FnYLHuz8Tb9Q?usp=sharing"
+        },
+        "CSE3109": {
+          "courseCode": "CSE3109",
+          "courseName": "Digital System Design",
+          "driveLink": "https://drive.google.com/drive/folders/1h46RBrx44gI-gXu9mTIhXbUIQYjCV0-s?usp=sharing"
+        },
+        "CSE3110": {
+          "courseCode": "CSE3110",
+          "courseName": "Digital System Design Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1NOqpISdmn20XReIrSN6CCUw-cawc_ilG?usp=sharing"
+        },
+        "CSE3117": {
+          "courseCode": "CSE3117",
+          "courseName": "Microprocessors and Microcontrollers",
+          "driveLink": "https://drive.google.com/drive/folders/1Dz7oLHaMw3crF3u16SyCXckDQNnXyqQm?usp=sharing"
+        },
+        "CSE3118": {
+          "courseCode": "CSE3118",
+          "courseName": "Microprocessors and Microcontrollers Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1loUBEyVDv5z6bA5v-ZPmlG6ktj-gzxjY?usp=sharing"
+        },
+        "FIFTH Semester": {
+          "courseCode": "FIFTH Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1MHXMkVB0oSyXmxvJ2Slf1yIVWOdZPNBj?usp=sharing"
+        },
+        "HUM3115": {
+          "courseCode": "HUM3115",
+          "courseName": "Economics and Accounting",
+          "driveLink": "https://drive.google.com/drive/folders/1xUadAw_SWMrpwVKlmUjHGlG__bNCncLy?usp=sharing"
+        }
+      },
+      "year3semester2": {
+        "All Courses": {
+          "courseCode": "All Courses",
+          "courseName": "powered by Enigma41",
+          "coursePath": "CSE/year3semester2/All Courses",
+          "driveLink": "https://drive.google.com/drive/mobile/folders/1TMcycLW_XQ9HGGULu_mUQRaRSY0Zjq8Y"
+        },
+        "CSE3200": {
+          "courseCode": "CSE3200",
+          "courseName": "Software Development-V",
+          "driveLink": "https://drive.google.com/drive/folders/1zSZr3wmcYHsqYei3thUOaOPse-QfxMz5?usp=sharing"
+        },
+        "CSE3201": {
+          "courseCode": "CSE3201",
+          "courseName": "Introduction to Computer Networks",
+          "driveLink": "https://drive.google.com/drive/folders/1OiIaknJjwYl_7exautNPb2c59ZwTmn60?usp=sharing"
+        },
+        "CSE3202": {
+          "courseCode": "CSE3202",
+          "courseName": "Introduction to Computer Networks Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1rWrkcS2nr1n9whm3tperE9cxuQbUf-E7?usp=sharing"
+        },
+        "CSE3207": {
+          "courseCode": "CSE3207",
+          "courseName": "Introduction to Artificial Intelligence",
+          "driveLink": "https://drive.google.com/drive/folders/1ZjlQtjNGimHtlSOQ54Uc8to7NFfQQRiM?usp=sharing"
+        },
+        "CSE3208": {
+          "courseCode": "CSE3208",
+          "courseName": "Introduction to Artificial Intelligence Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1VMOWGdSrNrKfxmtx0gvNkaFuEyByX9ZR?usp=sharing"
+        },
+        "CSE3213": {
+          "courseCode": "CSE3213",
+          "courseName": "Operating System",
+          "driveLink": "https://drive.google.com/drive/folders/1s4ndC1ZwTJtWXEI4Jgp_YLBeIBSJx5IQ?usp=sharing"
+        },
+        "CSE3214": {
+          "courseCode": "CSE3214",
+          "courseName": "Operating System Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1LFMjvLh2Tr0wsl-8Cj1yGYGlApriDmJt?usp=sharing"
+        },
+        "CSE3223": {
+          "courseCode": "CSE3223",
+          "courseName": "Information System Design and Software Engineering",
+          "driveLink": "https://drive.google.com/drive/folders/1dIYgQB2VuRjaqIBOGawPwbqO2vVcGMd4?usp=sharing"
+        },
+        "CSE3224": {
+          "courseCode": "CSE3224",
+          "courseName": "Information System Design and Software Engineering Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1K_RXf6WxOhLZFZswZL1T7yBRuV1jAZbg?usp=sharing"
+        },
+        "HUM3207": {
+          "courseCode": "HUM3207",
+          "courseName": "Industrial Law and Safety Management",
+          "driveLink": "https://drive.google.com/drive/folders/1gbIQyLpOksoLMKk8_HifloPlNsfRahst?usp=sharing"
+        },
+        "SIXTH Semester": {
+          "courseCode": "SIXTH Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1YwEZLU6f6HG1V3YI-3G1CR9aHwViB2LX?usp=sharing"
+        }
+      },
+      "year4semester1": {
+        "CSE4100": {
+          "courseCode": "CSE4100",
+          "courseName": "Project and Thesis-I",
+          "driveLink": "https://drive.google.com/drive/folders/14JmhxS8ltTndogYyRlbkV9uOXCXm7n6a?usp=sharing"
+        },
+        "CSE411": {
+          "courseCode": "CSE",
+          "courseName": "Option-I",
+          "driveLink": "https://drive.google.com/drive/folders/1yC58uT-vPrayxNGPqUYoOEu7LA-p1xbR?usp=sharing"
+        },
+        "CSE4113": {
+          "courseCode": "CSE4113",
+          "courseName": "Pattern Recognition and Machine Learning",
+          "driveLink": "https://drive.google.com/drive/folders/1AD5D555QVbYimnfJHNTxgqs-ao7hM5AD?usp=sharing"
+        },
+        "CSE4114": {
+          "courseCode": "CSE4114",
+          "courseName": "Pattern Recognition and Machine Learning Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1voLYuDXsrSmHc_vYq4Hofdr3sRR3xOJL?usp=sharing"
+        },
+        "CSE412": {
+          "courseCode": "CSE",
+          "courseName": "Option-I Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1hs2_0mxLD40_tTAg97iPQ2FyPGFU7yVr?usp=sharing"
+        },
+        "CSE4129": {
+          "courseCode": "CSE4129",
+          "courseName": "Formal Languages and Compilers",
+          "driveLink": "https://drive.google.com/drive/folders/1_sSTU7GGAuUHvP7kitDiMPJVEsWw-VRb?usp=sharing"
+        },
+        "CSE413": {
+          "courseCode": "CSE",
+          "courseName": "Option-II",
+          "driveLink": "https://drive.google.com/drive/folders/16I8yN_nuz8ll0_wDBaII-m2Kbl6uv4Ul?usp=sharing"
+        },
+        "CSE4130": {
+          "courseCode": "CSE4130",
+          "courseName": "Formal Languages and Compilers Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1jwW3bSCYt_DVilsnHdJX0y1stmPGLIr2?usp=sharing"
+        },
+        "CSE414": {
+          "courseCode": "CSE",
+          "courseName": "Option-II Lab",
+          "driveLink": "https://drive.google.com/drive/folders/167-2KAsxa3V7YdSUUX_FXXnn9jUp2z4L?usp=sharing"
+        },
+        "IPE4111": {
+          "courseCode": "IPE4111",
+          "courseName": "Industrial Management",
+          "driveLink": "https://drive.google.com/drive/folders/1jIWml4-3NFgrKHBVj1YACbJbWW8lidZM?usp=sharing"
+        },
+        "SEVENTH Semester": {
+          "courseCode": "SEVENTH Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1XfTq2_6flhp1ZzDFrZZoz3BGQ9ow4KJa?usp=sharing"
+        }
+      },
+      "year4semester2": {
+        "CSE4203": {
+          "courseCode": "CSE4203",
+          "courseName": "Computer Graphics",
+          "driveLink": "https://drive.google.com/drive/folders/1U0nbXv50TsEO3u9tn8P-YtrDpwiEHQxd?usp=sharing"
+        },
+        "CSE4204": {
+          "courseCode": "CSE4204",
+          "courseName": "Computer Graphics Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1l7yobpFljwn2wihk1QMq-GwCaeeBGF83?usp=sharing"
+        },
+        "CSE421": {
+          "courseCode": "CSE",
+          "courseName": "Option-III (COMPUTER VISION)",
+          "driveLink": "https://drive.google.com/drive/folders/16sfe1yUbtSboxdOTyr2mTE294LPM6tmQ?usp=sharing"
+        },
+        "CSE422": {
+          "courseCode": "CSE",
+          "courseName": "Option-III Lab (Computer Vision lab)",
+          "driveLink": "https://drive.google.com/drive/folders/1T5P4bwUyvrvZ1zKej8ILv2hajiKaS-tI?usp=sharing"
+        },
+        "CSE423": {
+          "courseCode": "CSE",
+          "courseName": "Option-IV",
+          "driveLink": "https://drive.google.com/drive/folders/1nrWbSRjYmkVpr0t6pNAa8fy_xzWKw7Sn?usp=sharing"
+        },
+        "CSE424": {
+          "courseCode": "CSE",
+          "courseName": "Option-IV Lab",
+          "driveLink": "https://drive.google.com/drive/folders/1DhLD1WIKxTlpvmZUs_yELF8yPXmWz8jY?usp=sharing"
+        },
+        "CSE425": {
+          "courseCode": "CSE",
+          "courseName": "Option-V",
+          "driveLink": "https://drive.google.com/drive/folders/1Rg1tdCvI4EOAdn9xRcArcwFihMIQPud1?usp=sharing"
+        },
+        "CSE4250": {
+          "courseCode": "CSE4250",
+          "courseName": "Project and Thesis-II",
+          "driveLink": "https://drive.google.com/drive/folders/1M5-mgrFOA1MbHkvSD84RRonWqQlOJygk?usp=sharing"
+        },
+        "EIGHTH Semester": {
+          "courseCode": "EIGHTH Semester",
+          "courseName": "Semester Final Question",
+          "driveLink": "https://drive.google.com/drive/folders/1YJ1BgSAkPp0mJ6Xcr0xH_tjsT99ESAvv?usp=sharing"
+        }
+      }
+    },
+    "EEE": {
+      "year2semester2": {
+        "shsjs": {
+          "courseCode": "shsjs",
+          "courseName": "hsjsjs",
+          "coursePath": "EEE/year2semester2/shsjs",
+          "driveLink": "https://m.facebook.com/?tbua=1"
+        }
+      }
+    }
+  },
+  "group-list": {
+    "200104": {
+      "-NHuGdC": {
+        "groupDetails": "Personal",
+        "groupId": "-NHuGdC",
+        "groupName": "Mahy's",
+        "path": "group-list/200104/-NHuGdC",
+        "universityId": "200104110",
+        "userId": "arman.cse.200104110@aust.edu"
+      },
+      "-NIBlOl": {
+        "groupDetails": "Jsjsa",
+        "groupId": "-NIBlOl",
+        "groupName": "Haja",
+        "path": "group-list/200104/-NIBlOl",
+        "universityId": "200104146",
+        "userId": "sabbir.cse.200104146@aust.edu"
+      },
+      "-NIBlQ7": {
+        "groupDetails": "Dgegs",
+        "groupId": "-NIBlQ7",
+        "groupName": "Shaha",
+        "path": "group-list/200104/-NIBlQ7",
+        "universityId": "200104146",
+        "userId": "sabbir.cse.200104146@aust.edu"
+      },
+      "-NIBlRY": {
+        "groupDetails": "Zba",
+        "groupId": "-NIBlRY",
+        "groupName": "Shz",
+        "path": "group-list/200104/-NIBlRY",
+        "universityId": "200104146",
+        "userId": "sabbir.cse.200104146@aust.edu"
+      },
+      "-NIBlWQ": {
+        "groupDetails": "Ahshs",
+        "groupId": "-NIBlWQ",
+        "groupName": "Suehs",
+        "path": "group-list/200104/-NIBlWQ",
+        "universityId": "200104146",
+        "userId": "sabbir.cse.200104146@aust.edu"
+      },
+      "-NIBlcf": {
+        "groupDetails": "Sgs",
+        "groupId": "-NIBlcf",
+        "groupName": "Gsa",
+        "path": "group-list/200104/-NIBlcf",
+        "universityId": "200104146",
+        "userId": "sabbir.cse.200104146@aust.edu"
+      },
+      "-NICsTZ": {
+        "groupDetails": "Quiz Schedule Group",
+        "groupId": "-NICsTZ",
+        "groupName": "Section C",
+        "path": "group-list/200104/-NICsTZ",
+        "universityId": "200104129",
+        "userId": "parvez.cse.200104129@aust.edu"
+      },
+      "-NJBi5l": {
+        "groupDetails": "dsd",
+        "groupId": "-NJBi5l",
+        "groupName": "yusha",
+        "path": "group-list/200104/-NJBi5l",
+        "universityId": "20200104113",
+        "userId": "abdullah.cse.200104113@aust.edu"
+      },
+      "-NJBi7i": {
+        "groupDetails": "dsd",
+        "groupId": "-NJBi7i",
+        "groupName": "yusha",
+        "path": "group-list/200104/-NJBi7i",
+        "universityId": "20200104113",
+        "userId": "abdullah.cse.200104113@aust.edu"
+      }
+    },
+    "220104": {
+      "-NJLQuG": {
+        "groupDetails": "presentation work ",
+        "groupId": "-NJLQuG",
+        "groupName": "presentation ",
+        "path": "group-list/220104/-NJLQuG",
+        "universityId": "20220104157",
+        "userId": "tajuddin.cse.20220104157@aust.edu"
+      },
+      "-NJLQwF": {
+        "groupDetails": "গগ",
+        "groupId": "-NJLQwF",
+        "groupName": "র",
+        "path": "group-list/220104/-NJLQwF",
+        "universityId": "20220104157",
+        "userId": "tajuddin.cse.20220104157@aust.edu"
+      }
+    }
+  },
+  "group-notice": {
+    "-NHuGdC": {
+      "-NI8gp_eXBBdLuwXNXsK": {
+        "groupId": "-NHuGdC",
+        "path": "-NI8gp_eXBBdLuwXNXsK",
+        "taskdate": "16/12/2022",
+        "taskdescription": "ghj",
+        "taskname": "dsd",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      }
+    },
+    "-NICsTZ": {
+      "-NICswthdogsmbr7KdGh": {
+        "groupId": "-NICsTZ",
+        "path": "-NICswthdogsmbr7KdGh",
+        "taskdate": "22/1/2023",
+        "taskdescription": "Lecture 15 to 22",
+        "taskname": "Database",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      },
+      "-NICt6GEx-KGyTF2jbkx": {
+        "groupId": "-NICsTZ",
+        "path": "-NICt6GEx-KGyTF2jbkx",
+        "taskdate": "5/2/2023",
+        "taskdescription": "lecture 23 to 30",
+        "taskname": "Database",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      },
+      "-NJZ8LZ63daw55Za7NKO": {
+        "groupId": "-NICsTZ",
+        "path": "-NJZ8LZ63daw55Za7NKO",
+        "taskdate": "27/12/2022",
+        "taskdescription": "Silde 6 intro to 8086 microprocessor",
+        "taskname": "Microprocessor",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      },
+      "-NK1loN_6hpYEU8mU7__": {
+        "groupId": "-NICsTZ",
+        "path": "-NK1loN_6hpYEU8mU7__",
+        "taskdate": "29/12/2022",
+        "taskdescription": "Introduction to probability\nbayes theorem\nrandom Variables\ndiscreate rv, continious rv, expectations of rv",
+        "taskname": "MACS",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      },
+      "-NK2Vl1wUwMx8WfHE3K2": {
+        "groupId": "-NICsTZ",
+        "path": "-NK2Vl1wUwMx8WfHE3K2",
+        "taskdate": "27/12/2022",
+        "taskdescription": "lab 1-6 syllabus",
+        "taskname": "Database Lab Mid",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      },
+      "-NK2d57EQJeJ8DVqJrQj": {
+        "groupId": "-NICsTZ",
+        "path": "-NK2d57EQJeJ8DVqJrQj",
+        "taskdate": "9/1/2023",
+        "taskdescription": "Booths Multiplication, Control Unit Design",
+        "taskname": "DSD",
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      }
+    }
+  },
+  "material-request-list": {
+    "-NGJ2RqNfsrmwzqSui2E": {
+      "message": "Bdksbsksbxb",
+      "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+    },
+    "-NH8CrTnZ6geNBGZSGqC": {
+      "message": "sjsjsn",
+      "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+    }
+  },
+  "public-posts": {
+    "-NGwvl3RnUwo8nzcb-z9": {
+      "productAuthor": "bkbjb",
+      "productCategory": "Academic",
+      "productDetails": "bdjdbdn",
+      "productId": "-NGwvl3RnUwo8nzcb-z9",
+      "productName": "Hello",
+      "productPrice": "87849",
+      "sellersContactNo ": "01836430305",
+      "sellersDetails": "01836430305 Parvez parvez.cse.200104129@aust.edu 200104129 SPRING 20 Computer Science and Engineering",
+      "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+    },
+    "-NHQdFCHv7OoC1s2xd4T": {
+      "productAuthor": "Qubits",
+      "productCategory": "Notes",
+      "productDetails": "ahsbsjjs",
+      "productId": "-NHQdFCHv7OoC1s2xd4T",
+      "productName": "Note",
+      "productPrice": "200",
+      "sellersContactNo ": "01675324403",
+      "sellersDetails": "01675324403 Arman arman.cse.200104110@aust.edu 200104110 SPRING 20 Computer Science and Engineering",
+      "userId": "uZjzyA8yl8MEcgEGrPkS4tLdttX2"
+    }
+  },
+  "teachers": {
+    "afsana-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "afsana.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041079.jpeg",
+      "name": "Ms. Afsana Ahmed Munia",
+      "phone": "Not Available"
+    },
+    "ahsan-du-2010@gmail-com": {
+      "designation": "Lecturer",
+      "email": "ahsan.du.2010@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041022.jpeg",
+      "name": "Mr. Ahasanuzzaman",
+      "phone": "Not Available"
+    },
+    "almamun@aust-edu": {
+      "designation": "Professor & Dean",
+      "email": "almamun@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041002.jpeg",
+      "name": "Dr. S.M.A. Al-Mamun",
+      "phone": "01912-073524"
+    },
+    "aminur-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "aminur.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041032.jpeg",
+      "name": "Mr. Md. Aminur Rahman",
+      "phone": "01681-646953"
+    },
+    "anikasayara@outlook-com": {
+      "designation": "Lecturer",
+      "email": "anikasayara@outlook.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041049.jpeg",
+      "name": "Ms. Anika Sayara",
+      "phone": "Not Available"
+    },
+    "ashna-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "ashna.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+      "name": "Ms. Ashna Nawar Ahmed",
+      "phone": "01710-812206"
+    },
+    "belal92-cse@gmail-com": {
+      "designation": "Assistant Professor",
+      "email": "belal92.cse@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041023.jpeg",
+      "name": "Mr. Tanveer Ahmed Belal",
+      "phone": "01671-982904"
+    },
+    "broti-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "broti.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041112.jpeg",
+      "name": "Ms. Tanjila Broti",
+      "phone": "01747-053002"
+    },
+    "eity-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "eity.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041007.jpeg",
+      "name": "Ms. Qamrun Nahar Eity",
+      "phone": "01680-033969"
+    },
+    "emamhossain-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "emamhossain.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041012.jpeg",
+      "name": "Mr. Emam Hossain",
+      "phone": "01717-584978"
+    },
+    "faisal-cse@aust-edu": {
+      "designation": "Associate Professor",
+      "email": "faisal.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041005.jpeg",
+      "name": "Mr. Faisal Muhammad Shah",
+      "phone": "01729-594777"
+    },
+    "farzad-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "farzad.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041105.jpeg",
+      "name": "Mr. Farzad Ahmed",
+      "phone": "016 8524 5342"
+    },
+    "hasib-cse@aust-edu": {
+      "designation": "Lecturer Grade- I",
+      "email": "hasib.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041097.jpeg",
+      "name": "Mr. Al Hasib Mahamud",
+      "phone": "01785-510021"
+    },
+    "hasin-abrar-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "hasin.abrar.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041090.jpeg",
+      "name": "Mr. Md. Hasin Abrar",
+      "phone": "Not Available"
+    },
+    "imtiaznaved@gmail-com": {
+      "designation": "Lecturer",
+      "email": "imtiaznaved@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041050.jpeg",
+      "name": "Mr. Mir Imtiaz Mostafiz",
+      "phone": "Not Available"
+    },
+    "joy-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "joy.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041114.jpeg",
+      "name": "Mr. Sajib Kumar Saha Joy",
+      "phone": "01740-413252"
+    },
+    "jubair-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "jubair.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041048.jpeg",
+      "name": "Mr. Mohammad Imrul Jubair",
+      "phone": "01722-682783"
+    },
+    "kalpoma@aust-edu": {
+      "designation": "Professor& Director ICT Center",
+      "email": "kalpoma@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041074.jpeg",
+      "name": "Prof. Dr. Kazi A Kalpoma",
+      "phone": "01819-127854"
+    },
+    "khairul271276@aust-edu": {
+      "designation": "Associate Professor",
+      "email": "khairul271276@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041003.jpeg",
+      "name": "Mr. Md. Khairul Hasan",
+      "phone": "01711-109629"
+    },
+    "maruf-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "maruf.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041104.jpeg",
+      "name": "Mr. Mohammad Marufur Rahman",
+      "phone": "018 1947 3569"
+    },
+    "masudur-rahman0413-cse@aust-edu": {
+      "designation": "Lecturer Grade- I",
+      "email": "masudur.rahman0413.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041094.jpeg",
+      "name": "Mr. Md. Masudur Rahman",
+      "phone": "Not Available"
+    },
+    "mohsena_ria-cse@aust-edu": {
+      "designation": "Lecturer Grade- I",
+      "email": "mohsena_ria.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041096.jpeg",
+      "name": "Ms. Mohsena Ashraf",
+      "phone": "01685-015080"
+    },
+    "moinul@aust-edu": {
+      "designation": "Associate Professor",
+      "email": "moinul@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041039.jpeg",
+      "name": "Mr. Mohammad Moinul Hoque",
+      "phone": "01817-579779"
+    },
+    "mtnayeem-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "mtnayeem.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041076.jpeg",
+      "name": "Mr. Mir Tafseer Nayeem",
+      "phone": "Not Available"
+    },
+    "nazmussakib009@gmail-com": {
+      "designation": "Assistant Professor",
+      "email": "nazmussakib009@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041017.jpeg",
+      "name": "Mr. Nazmus Sakib",
+      "phone": "01939-900271"
+    },
+    "nibir-cse@aust-edu": {
+      "designation": "Lecturer Grade- I",
+      "email": "nibir.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041091.jpeg",
+      "name": "Mr. Nibir Chandra Mandal",
+      "phone": "01878-077309"
+    },
+    "rajon99@gmail-com": {
+      "designation": "Assistant Professor",
+      "email": "rajon99@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041019.jpeg",
+      "name": "Mr. D.M. Anisuzzaman",
+      "phone": "Not Available"
+    },
+    "raqeebir-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "raqeebir.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041020.jpeg",
+      "name": "Ms. Raqeebir Rab",
+      "phone": "01779-001291"
+    },
+    "raqib-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "raqib.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041121.jpeg",
+      "name": "Dr. Md. Raqibul Hasan",
+      "phone": "01705-212098"
+    },
+    "reasad-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "reasad.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041113.jpeg",
+      "name": "Mr. Md. Reasad Zaman Chowdhury",
+      "phone": "01744-94452"
+    },
+    "saddamhossain-as@aust-edu": {
+      "designation": "Lecturer ",
+      "email": "saddamhossain.as@aust.edu",
+      "img": "https://drive.google.com/drive/folders/1AK5w5V46nQ0EGrDd7y2NJ9sCWC85SVm8",
+      "name": "Md Saddam Hossain",
+      "phone": "01746196680"
+    },
+    "seum-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "seum.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041115.jpeg",
+      "name": "Mr. Ashek Seum",
+      "phone": "01623-247656"
+    },
+    "shabnam-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "shabnam.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041011.jpeg",
+      "name": "Ms. Syeda Shabnam Hasan",
+      "phone": "01914-130189"
+    },
+    "shafiul-cse@aust-edu": {
+      "designation": "Professor& Head CSE",
+      "email": "shafiul.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041004.jpeg",
+      "name": "Dr. Mohammad Shafiul Alam",
+      "phone": "01715-104101"
+    },
+    "shahariar_shibli-cse@aust-edu": {
+      "designation": "Lecturer Grade- I",
+      "email": "shahariar_shibli.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041085.jpeg",
+      "name": "Mr. G. M. Shahariar",
+      "phone": "01687-842121"
+    },
+    "shahriar-cse@aust-edu": {
+      "designation": "Professor",
+      "email": "shahriar.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041082.jpeg",
+      "name": "Dr. Md. Shahriar Mahbub",
+      "phone": "01748-567161"
+    },
+    "shawontanvir-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "shawontanvir.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041110.jpeg",
+      "name": "Mr. Md. Tanvir Rouf Shawon",
+      "phone": "0177343 9315"
+    },
+    "shoeb-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "shoeb.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041033.jpeg",
+      "name": "Mr. Shoeb Mohammad Shahriar",
+      "phone": "01917-256784"
+    },
+    "siamansary-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "siamansary.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041111.jpeg",
+      "name": "Mr. Md. Siam Ansary",
+      "phone": "01316-985815"
+    },
+    "tahsinaziz-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "tahsinaziz.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041029.jpeg",
+      "name": "Ms. Tahsin Aziz",
+      "phone": "01712-019558"
+    },
+    "taksir-cse@aust-edu": {
+      "designation": "Lecturer",
+      "email": "Taksir.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041034.jpeg",
+      "name": "Mr. Md. Taksir Hasan Majumder",
+      "phone": ""
+    },
+    "tamanna-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "tamanna.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041118.jpeg",
+      "name": "Ms. Tamanna Tabassum",
+      "phone": "01676-572327"
+    },
+    "tanvir-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "tanvir.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041008.jpeg",
+      "name": "Mr. Tanvir Ahmed",
+      "phone": "01747-584076"
+    },
+    "tasfia-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "tasfia.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041089.jpeg",
+      "name": "Ms. Tasfia Zahin",
+      "phone": "Not Available"
+    },
+    "tawkat-cse@aust-edu": {
+      "designation": "Lecturer Grade- I I",
+      "email": "tawkat.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041093.jpeg",
+      "name": "Mr. Md. Tawkat Islam Khondaker",
+      "phone": "Not Available"
+    },
+    "walid-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "walid.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041016.jpeg",
+      "name": "Mr. Md. Hosne Al Walid Shaiket",
+      "phone": "Not Available"
+    },
+    "wasi_cse25@yahoo-com": {
+      "designation": "Assistant Professor",
+      "email": "wasi_cse25@yahoo.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041009.jpeg",
+      "name": "Mr. Md. Wasi Ul Kabir",
+      "phone": "Not Available"
+    },
+    "yaseenadib-cse@aust-edu": {
+      "designation": "Lecturer",
+      "email": "yaseenadib.cse@aust.edu",
+      "img": "https://www.google.com/search?q=demo+image&oq=demo+image&aqs=chrome..69i57j0i512l7.1713j1j9&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8#imgrc=fvIJWeG0sz8kIM",
+      "name": "Yaseen Adib",
+      "phone": "01821965051"
+    },
+    "zabir-haque-cse@aust-edu": {
+      "designation": "Assistant Professor",
+      "email": "zabir.haque.cse@aust.edu",
+      "img": "https://www.aust.edu/storage/faculty_photo/041102.jpeg",
+      "name": "Mr. H M Zabir Haque",
+      "phone": "01911-289247"
+    },
+    "zarintasnim14@gmail-com": {
+      "designation": "Lecturer Grade- I",
+      "email": "zarintasnim14@gmail.com",
+      "img": "https://www.aust.edu/storage/faculty_photo/041120.jpeg",
+      "name": "Ms. Zarin Tasnim Shejuti",
+      "phone": "01622-672977"
+    }
+  },
+  "user-favouriteTeachers": {
+    "2oZ6ucOtYJgXn3cYUjtxLRiyjG93": {
+      "ashna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "ashna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+        "name": "Ms. Ashna Nawar Ahmed",
+        "phone": "01710-812206"
+      },
+      "farzad-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "farzad.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041105.jpeg",
+        "name": "Mr. Farzad Ahmed",
+        "phone": "016 8524 5342"
+      },
+      "nazmussakib009@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "nazmussakib009@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041017.jpeg",
+        "name": "Mr. Nazmus Sakib",
+        "phone": "01939-900271"
+      },
+      "raqib-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "raqib.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041121.jpeg",
+        "name": "Dr. Md. Raqibul Hasan",
+        "phone": "01705-212098"
+      },
+      "saddamhossain-as@aust-edu": {
+        "designation": "Lecturer ",
+        "email": "saddamhossain.as@aust.edu",
+        "img": "https://drive.google.com/drive/folders/1AK5w5V46nQ0EGrDd7y2NJ9sCWC85SVm8",
+        "name": "Md Saddam Hossain",
+        "phone": "01746196680"
+      },
+      "shafiul-cse@aust-edu": {
+        "designation": "Professor& Head CSE",
+        "email": "shafiul.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041004.jpeg",
+        "name": "Dr. Mohammad Shafiul Alam",
+        "phone": "01715-104101"
+      }
+    },
+    "7RgAS8rC0SQ6a3jiPyJhlyGTEe53": {
+      "ashna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "ashna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+        "name": "Ms. Ashna Nawar Ahmed",
+        "phone": "01710-812206"
+      },
+      "belal92-cse@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "belal92.cse@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041023.jpeg",
+        "name": "Mr. Tanveer Ahmed Belal",
+        "phone": "01671-982904"
+      }
+    },
+    "98ByqMnvBaQJITcp5jYVCzIj31K2": {
+      "ahsan-du-2010@gmail-com": {
+        "designation": "Lecturer",
+        "email": "ahsan.du.2010@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041022.jpeg",
+        "name": "Mr. Ahasanuzzaman",
+        "phone": "Not Available"
+      }
+    },
+    "JhK7MVtc4TdwMnTwrMV8bMcIC8r1": {
+      "ashna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "ashna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+        "name": "Ms. Ashna Nawar Ahmed",
+        "phone": "01710-812206"
+      },
+      "belal92-cse@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "belal92.cse@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041023.jpeg",
+        "name": "Mr. Tanveer Ahmed Belal",
+        "phone": "01671-982904"
+      },
+      "broti-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "broti.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041112.jpeg",
+        "name": "Ms. Tanjila Broti",
+        "phone": "01747-053002"
+      },
+      "khairul271276@aust-edu": {
+        "designation": "Associate Professor",
+        "email": "khairul271276@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041003.jpeg",
+        "name": "Mr. Md. Khairul Hasan",
+        "phone": "01711-109629"
+      }
+    },
+    "OYphfYjgChYcYjnAKG7rU8QCiV33": {
+      "tamanna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "tamanna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041118.jpeg",
+        "name": "Ms. Tamanna Tabassum",
+        "phone": "01676-572327"
+      }
+    },
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "anikasayara@outlook-com": {
+        "designation": "Lecturer",
+        "email": "anikasayara@outlook.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041049.jpeg",
+        "name": "Ms. Anika Sayara",
+        "phone": "Not Available"
+      },
+      "ashna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "ashna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+        "name": "Ms. Ashna Nawar Ahmed",
+        "phone": "01710-812206"
+      },
+      "farzad-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "farzad.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041105.jpeg",
+        "name": "Mr. Farzad Ahmed",
+        "phone": "016 8524 5342"
+      },
+      "maishatasnim-as@aust-edu": {
+        "designation": "Lecturer Grade II",
+        "email": "maishatasnim.as@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/151096.jpeg",
+        "name": "Maisha Tasnim",
+        "phone": "01671488715"
+      },
+      "nazmussakib009@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "nazmussakib009@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041017.jpeg",
+        "name": "Mr. Nazmus Sakib",
+        "phone": "01939-900271"
+      },
+      "raqib-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "raqib.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041121.jpeg",
+        "name": "Dr. Md. Raqibul Hasan",
+        "phone": "01705-212098"
+      },
+      "saddamhossain-as@aust-edu": {
+        "designation": "Lecturer ",
+        "email": "saddamhossain.as@aust.edu",
+        "img": "https://drive.google.com/drive/folders/1AK5w5V46nQ0EGrDd7y2NJ9sCWC85SVm8",
+        "name": "Md Saddam Hossain",
+        "phone": "01746196680"
+      },
+      "yaseenadib-cse@aust-edu": {
+        "designation": "Lecturer",
+        "email": "yaseenadib.cse@aust.edu",
+        "img": "https://www.google.com/search?q=demo+image&oq=demo+image&aqs=chrome..69i57j0i512l7.1713j1j9&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8#imgrc=fvIJWeG0sz8kIM",
+        "name": "Yaseen Adib",
+        "phone": "01821965051"
+      }
+    },
+    "fZ89dJyWLMctQjqtGV58LjF0XPr2": {
+      "eity-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "eity.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041007.jpeg",
+        "name": "Ms. Qamrun Nahar Eity",
+        "phone": "01680-033969"
+      },
+      "tahsinaziz-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "tahsinaziz.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041029.jpeg",
+        "name": "Ms. Tahsin Aziz",
+        "phone": "01712-019558"
+      }
+    },
+    "kifumhrlUBeOxyBlsSl6TPszMwd2": {
+      "afsana-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "afsana.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041079.jpeg",
+        "name": "Ms. Afsana Ahmed Munia",
+        "phone": "Not Available"
+      }
+    },
+    "p92sq7AjLOYIYu20TmbV0YNYDws1": {
+      "belal92-cse@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "belal92.cse@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041023.jpeg",
+        "name": "Mr. Tanveer Ahmed Belal",
+        "phone": "01671-982904"
+      }
+    }
+  },
+  "user-favouriteWebsites": {
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "-NIIhXzVuTLoJKq2PoRK": {
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3",
+        "websiteID": "-NIIhXzVuTLoJKq2PoRK",
+        "websiteLink": "https://itnext.io/if-i-could-only-teach-one-thing-to-a-beginner-developer-1f98d4ff6cb7",
+        "websiteName": "Dev notes"
+      },
+      "-NIqjVB1QV133jmGwHAU": {
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3",
+        "websiteID": "-NIqjVB1QV133jmGwHAU",
+        "websiteLink": "https://grabify.link/",
+        "websiteName": "Grabify"
+      },
+      "-NIqjboUQ7ZwsZgKOtKY": {
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3",
+        "websiteID": "-NIqjboUQ7ZwsZgKOtKY",
+        "websiteLink": "https://iplogger.org/",
+        "websiteName": "IP Logger"
+      },
+      "-NIqjkEYQWHZOvIaLKLn": {
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3",
+        "websiteID": "-NIqjkEYQWHZOvIaLKLn",
+        "websiteLink": "https://iplogger.org/",
+        "websiteName": "IP trap"
+      },
+      "-NIsA3kutG-5AXJ1PVPY": {
+        "uid": "TEQ09DxjCzfl913Wi7bZtER79iC3",
+        "websiteID": "-NIsA3kutG-5AXJ1PVPY",
+        "websiteLink": "https://cursa.app/en",
+        "websiteName": "Courses Link"
+      }
+    }
+  },
+  "user-groups": {
+    "JhK7MVtc4TdwMnTwrMV8bMcIC8r1": {
+      "-NICsTZ": {
+        "groupDetails": "Quiz Schedule Group",
+        "groupId": "-NICsTZ",
+        "groupName": "Section C",
+        "path": "group-list/200104/-NICsTZ",
+        "universityId": "200104129",
+        "userId": "parvez.cse.200104129@aust.edu"
+      }
+    },
+    "NqcA2641SYfrpUHwXlX7OkH2ZaM2": {
+      "-NJLQuG": {
+        "groupDetails": "presentation work ",
+        "groupId": "-NJLQuG",
+        "groupName": "presentation ",
+        "path": "group-list/220104/-NJLQuG",
+        "universityId": "20220104157",
+        "userId": "tajuddin.cse.20220104157@aust.edu"
+      }
+    },
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "-NHuGdC": {
+        "groupDetails": "Personal",
+        "groupId": "-NHuGdC",
+        "groupName": "Mahy's",
+        "path": "group-list/200104/-NHuGdC",
+        "universityId": "200104110",
+        "userId": "arman.cse.200104110@aust.edu"
+      },
+      "-NICsTZ": {
+        "groupDetails": "Quiz Schedule Group",
+        "groupId": "-NICsTZ",
+        "groupName": "Section C",
+        "path": "group-list/200104/-NICsTZ",
+        "universityId": "200104129",
+        "userId": "parvez.cse.200104129@aust.edu"
+      }
+    },
+    "qkXWNzTmPEgdgkj7aJUhLMTP5TF2": {
+      "-NICsTZ": {
+        "groupDetails": "Quiz Schedule Group",
+        "groupId": "-NICsTZ",
+        "groupName": "Section C",
+        "path": "group-list/200104/-NICsTZ",
+        "universityId": "200104129",
+        "userId": "parvez.cse.200104129@aust.edu"
+      }
+    },
+    "uZjzyA8yl8MEcgEGrPkS4tLdttX2": {
+      "-NHuGdC": {
+        "groupDetails": "Personal",
+        "groupId": "-NHuGdC",
+        "groupName": "Mahy's",
+        "path": "group-list/200104/-NHuGdC",
+        "universityId": "200104110",
+        "userId": "arman.cse.200104110@aust.edu"
+      }
+    }
+  },
+  "user-materials": {
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "-NFogmNqGVBE02hvnWhj": {
+        "bookName": "Hello world book",
+        "bookSemester": "64843",
+        "bookYear": "Full book",
+        "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      }
+    }
+  },
+  "user-posted-items": {
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "-NGwvl3RnUwo8nzcb-z9": {
+        "productAuthor": "bkbjb",
+        "productCategory": "Academic",
+        "productDetails": "bdjdbdn",
+        "productId": "-NGwvl3RnUwo8nzcb-z9",
+        "productName": "Hello",
+        "productPrice": "87849",
+        "sellersContactNo ": "01836430305",
+        "sellersDetails": "01836430305 Parvez parvez.cse.200104129@aust.edu 200104129 SPRING 20 Computer Science and Engineering",
+        "userId": "TEQ09DxjCzfl913Wi7bZtER79iC3"
+      }
+    },
+    "uZjzyA8yl8MEcgEGrPkS4tLdttX2": {
+      "-NHQdFCHv7OoC1s2xd4T": {
+        "productAuthor": "Qubits",
+        "productCategory": "Notes",
+        "productDetails": "ahsbsjjs",
+        "productId": "-NHQdFCHv7OoC1s2xd4T",
+        "productName": "Note",
+        "productPrice": "200",
+        "sellersContactNo ": "01675324403",
+        "sellersDetails": "01675324403 Arman arman.cse.200104110@aust.edu 200104110 SPRING 20 Computer Science and Engineering",
+        "userId": "uZjzyA8yl8MEcgEGrPkS4tLdttX2"
+      }
+    }
+  },
+  "users": {
+    "2oZ6ucOtYJgXn3cYUjtxLRiyjG93": {
+      "email": "jubayer.cse.200104137@aust.edu",
+      "username": "jubayer.cse.200104137"
+    },
+    "4CV13dyOA8gu94NjI57Qzn3UaTr2": {
+      "email": "nafis.cse.200104126@aust.edu",
+      "username": "nafis.cse.200104126"
+    },
+    "5fMnqdH7jkZjCElMMvcl0AZqq1H2": {
+      "email": "bidyarthi.cse.200104023@aust.edu",
+      "username": "bidyarthi.cse.200104023"
+    },
+    "5n74JBbffAdSKZjOqD2jkV9q7VT2": {
+      "email": "julker.arch.20220101018@aust.edu",
+      "username": "julker.arch.20220101018"
+    },
+    "6RTQfqnktTUvQ8HbEJgczDm2SLJ2": {
+      "email": "adnan.cse.20220104036@aust.edu",
+      "username": "adnan.cse.20220104036"
+    },
+    "6l4eC75w3jW2NQwL7LsCunNZssJ2": {
+      "email": "shuhrid.cse.20220104028@aust.edu",
+      "username": "shuhrid.cse.20220104028"
+    },
+    "74D4GlZU67QjItTw4xvTjx5cjsb2": {
+      "email": "ashik.cse.20220104021@aust.edu",
+      "username": "ashik.cse.20220104021"
+    },
+    "7RgAS8rC0SQ6a3jiPyJhlyGTEe53": {
+      "email": "amirul.cse.20220104042@aust.edu",
+      "username": "amirul.cse.20220104042"
+    },
+    "7srkTc8FspgHBj9QqpR774qCQ0D3": {
+      "email": "ullash.cse.20220104034@aust.edu",
+      "username": "ullash.cse.20220104034"
+    },
+    "98ByqMnvBaQJITcp5jYVCzIj31K2": {
+      "email": "abdullah.cse.200104113@aust.edu",
+      "username": "abdullah.cse.200104113"
+    },
+    "9lIwtHLOpESUpRnFjah7IheGeoY2": {
+      "email": "zubaer.cse.20220104030@aust.edu",
+      "username": "zubaer.cse.20220104030"
+    },
+    "AXiQNP16ZFQkGPLFdLkJlcllJet1": {
+      "email": "tahsin.cse.20220104006@aust.edu",
+      "username": "tahsin.cse.20220104006"
+    },
+    "BreFL9VRPWcWoD3qLu6wBkysmwD3": {
+      "email": "shafin.cse.20220104092@aust.edu",
+      "username": "shafin.cse.20220104092"
+    },
+    "Bt477DoQNSUERY6VUpig3Okm8Pe2": {
+      "email": "abdul.cse.20220104064@aust.edu",
+      "username": "abdul.cse.20220104064"
+    },
+    "CHsbl57aEhhGuhVGgieC3Kmk6Gg2": {
+      "email": "parvez.cse.200104129@aust.edu",
+      "username": "parvez.cse.200104129"
+    },
+    "D7CnqM1uPRhwhYW8jwEiEKoC9RU2": {
+      "email": "190204051@aust.edu",
+      "username": "190204051"
+    },
+    "DQMX28Q1pyQLkonETwxRrM1WZkY2": {
+      "email": "harique.cse.20220104153@aust.edu",
+      "username": "harique.cse.20220104153"
+    },
+    "Fm0kPM9ZvOMkNCRHVK2JJgnQKtB2": {
+      "email": "zawadul.cse.200104081@aust.edu",
+      "username": "zawadul.cse.200104081"
+    },
+    "Fuq1ulZo0ceuYxAL7zLNmMnlfEl1": {
+      "email": "kalvin.cse.20220104038@aust.edu",
+      "username": "kalvin.cse.20220104038"
+    },
+    "IjpOjBAbapOgL8xpR2wAbVPAIxG2": {
+      "email": "tanvir.cse.200104136@aust.edu",
+      "username": "tanvir.cse.200104136"
+    },
+    "K3R0ofkb8IQ5fWb2goVWjJLXQtv2": {
+      "email": "fazlay.cse.20220104138@aust.edu",
+      "username": "fazlay.cse.20220104138"
+    },
+    "L6VUp56VSGUci67Dvd64hfXNMlF3": {
+      "email": "nahid.cse.20220104146@aust.edu",
+      "username": "nahid.cse.20220104146"
+    },
+    "MdRzvmTKO8QEypPR1G98eqCQbe43": {
+      "email": "saleheen.cse.20220104094@aust.edu",
+      "username": "saleheen.cse.20220104094"
+    },
+    "NfVhZqNY7ugZjfgO3JInMYhhGZu2": {
+      "email": "islam.cse.200104010@aust.edu",
+      "username": "islam.cse.200104010"
+    },
+    "NqcA2641SYfrpUHwXlX7OkH2ZaM2": {
+      "email": "tajuddin.cse.20220104157@aust.edu",
+      "username": "tajuddin.cse.20220104157"
+    },
+    "OJ2BzEGv4Th8Q8R2qhEt6pQemHm2": {
+      "email": "salman.cse.20220104007@aust.edu",
+      "username": "salman.cse.20220104007"
+    },
+    "OYphfYjgChYcYjnAKG7rU8QCiV33": {
+      "email": "mridul.cse.20220104086@aust.edu",
+      "username": "mridul.cse.20220104086"
+    },
+    "OwlbMGPgKibAFuqZXeW1eC5zlGA3": {
+      "email": "jakaria.cse.20220104141@aust.edu",
+      "username": "jakaria.cse.20220104141"
+    },
+    "SShLVyVT8QVHayLn6VWiNM25SUv1": {
+      "email": "sayeed.cse.200104086@aust.edu",
+      "username": "sayeed.cse.200104086"
+    },
+    "TEQ09DxjCzfl913Wi7bZtER79iC3": {
+      "email": "parvez.cse.200104129@aust.edu",
+      "username": "parvez.cse.200104129"
+    },
+    "TieR7N6n0bXR07vdkM0oLUDjIEf2": {
+      "email": "farhan.cse.20220104029@aust.edu",
+      "username": "farhan.cse.20220104029"
+    },
+    "W47MzuxWUghItnIBjd31kC8QUF13": {
+      "email": "asif.cse.20220104005@aust.edu",
+      "username": "asif.cse.20220104005"
+    },
+    "WV092o3E4ubSyE9BE1IR56HmPvy1": {
+      "email": "zannatul.ipe.20220107152@aust.edu",
+      "username": "zannatul.ipe.20220107152"
+    },
+    "YP9tZCSy6RRtvDtIyRo5CTHmrVb2": {
+      "email": "tanjir.cse.20220104009@aust.edu",
+      "username": "tanjir.cse.20220104009"
+    },
+    "ZlbWqCYuEoUNX2JOVi1BamIIPBc2": {
+      "email": "ahnaf.cse.20220104040@aust.edu",
+      "username": "ahnaf.cse.20220104040"
+    },
+    "eCbwPVw7t4UNmOZcRIT8iDNVZcH2": {
+      "email": "rashid.cse.200104111@aust.edu",
+      "username": "rashid.cse.200104111"
+    },
+    "fZ89dJyWLMctQjqtGV58LjF0XPr2": {
+      "email": "indrajit.cse.200104135@aust.edu",
+      "username": "indrajit.cse.200104135"
+    },
+    "fc8xTxumBWbElun5Nd2RFmUxnBU2": {
+      "email": "mahadir.cse.20220104046@aust.edu",
+      "username": "mahadir.cse.20220104046"
+    },
+    "fkvYiXurJLSETA58j9g0YJUkp6r1": {
+      "email": "khadiza.cse.20220104023@aust.edu",
+      "username": "khadiza.cse.20220104023"
+    },
+    "iguiy1i24egVBkSft8O0lC1BNaI3": {
+      "email": "sombit.cse.20220104100@aust.edu",
+      "username": "sombit.cse.20220104100"
+    },
+    "jg4tY4u4KDVcJhzQbe0t1i836Ck2": {
+      "email": "tasrik.cse.20220104095@aust.edu",
+      "username": "tasrik.cse.20220104095"
+    },
+    "mkALuxdMtKYJGp68Cod1rgUFkw62": {
+      "email": "farhan.cse.20220104031@aust.edu",
+      "username": "farhan.cse.20220104031"
+    },
+    "nZrjPazhRrP1OLAiy3Se8NDYtZ92": {
+      "email": "nahid.cse.20220104128@aust.edu",
+      "username": "nahid.cse.20220104128"
+    },
+    "nh538mL7aeaPcV3sq89csuGV2Dy1": {
+      "email": "mahdi.cse.20220104058@aust.edu",
+      "username": "mahdi.cse.20220104058"
+    },
+    "o4Jb1JQLjhUy5dDPm9Lce3HCSIx1": {
+      "email": "mahmudul.cse.20220104109@aust.edu",
+      "username": "mahmudul.cse.20220104109"
+    },
+    "oP1wF72zcLVcb4rMNxoF6Wlxe3v1": {
+      "email": "tajuddin.eee.20220105208@aust.edu",
+      "username": "tajuddin.eee.20220105208"
+    },
+    "p924v3WckqVKcW5W6hq8V5A1P6P2": {
+      "email": "sabah.cse.20220104091@aust.edu",
+      "username": "sabah.cse.20220104091"
+    },
+    "p92sq7AjLOYIYu20TmbV0YNYDws1": {
+      "email": "ismail.cse.20220104073@aust.edu",
+      "username": "ismail.cse.20220104073"
+    },
+    "qkXWNzTmPEgdgkj7aJUhLMTP5TF2": {
+      "email": "sabbir.cse.200104146@aust.edu",
+      "username": "sabbir.cse.200104146"
+    },
+    "tD2UcIl300ezox0DqA8fwFGelr02": {
+      "email": "khairun.cse.20220104020@aust.edu",
+      "username": "khairun.cse.20220104020"
+    },
+    "tXGFI2Hzr8bAHqo0UG2BNeRe7CC2": {
+      "email": "ratul.ce.20220103153@aust.edu",
+      "username": "ratul.ce.20220103153"
+    },
+    "uZjzyA8yl8MEcgEGrPkS4tLdttX2": {
+      "email": "arman.cse.200104110@aust.edu",
+      "username": "arman.cse.200104110"
+    },
+    "w1wdud5ubGPP7Ead1YtyUkMIs7K2": {
+      "email": "alim.cse.20220104016@aust.edu",
+      "username": "alim.cse.20220104016"
+    },
+    "wnYu6oozhaMYHmblPElYZ8D4XYS2": {
+      "email": "abid.cse.20200204089@aust.edu",
+      "username": "abid.cse.20200204089"
+    },
+    "ziKKyOPfBuTAS0cV2Du0ZMM0V6R2": {
+      "email": "mahmudul.cse.20200204006@aust.edu",
+      "username": "mahmudul.cse.20200204006"
+    }
+  },
+  "teachers-list": {
+    "cse": {
+      "afsana-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "afsana.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041079.jpeg",
+        "name": "Ms. Afsana Ahmed Munia",
+        "phone": "Not Available"
+      },
+      "ahsan-du-2010@gmail-com": {
+        "designation": "Lecturer",
+        "email": "ahsan.du.2010@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041022.jpeg",
+        "name": "Mr. Ahasanuzzaman",
+        "phone": "Not Available"
+      },
+      "almamun@aust-edu": {
+        "designation": "Professor & Dean",
+        "email": "almamun@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041002.jpeg",
+        "name": "Dr. S.M.A. Al-Mamun",
+        "phone": "01912-073524"
+      },
+      "aminur-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "aminur.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041032.jpeg",
+        "name": "Mr. Md. Aminur Rahman",
+        "phone": "01681-646953"
+      },
+      "anikasayara@outlook-com": {
+        "designation": "Lecturer",
+        "email": "anikasayara@outlook.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041049.jpeg",
+        "name": "Ms. Anika Sayara",
+        "phone": "Not Available"
+      },
+      "ashna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "ashna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041117.jpeg",
+        "name": "Ms. Ashna Nawar Ahmed",
+        "phone": "01710-812206"
+      },
+      "belal92-cse@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "belal92.cse@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041023.jpeg",
+        "name": "Mr. Tanveer Ahmed Belal",
+        "phone": "01671-982904"
+      },
+      "broti-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "broti.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041112.jpeg",
+        "name": "Ms. Tanjila Broti",
+        "phone": "01747-053002"
+      },
+      "eity-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "eity.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041007.jpeg",
+        "name": "Ms. Qamrun Nahar Eity",
+        "phone": "01680-033969"
+      },
+      "emamhossain-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "emamhossain.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041012.jpeg",
+        "name": "Mr. Emam Hossain",
+        "phone": "01717-584978"
+      },
+      "faisal-cse@aust-edu": {
+        "designation": "Associate Professor",
+        "email": "faisal.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041005.jpeg",
+        "name": "Mr. Faisal Muhammad Shah",
+        "phone": "01729-594777"
+      },
+      "farzad-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "farzad.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041105.jpeg",
+        "name": "Mr. Farzad Ahmed",
+        "phone": "016 8524 5342"
+      },
+      "hasib-cse@aust-edu": {
+        "designation": "Lecturer Grade- I",
+        "email": "hasib.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041097.jpeg",
+        "name": "Mr. Al Hasib Mahamud",
+        "phone": "01785-510021"
+      },
+      "hasin-abrar-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "hasin.abrar.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041090.jpeg",
+        "name": "Mr. Md. Hasin Abrar",
+        "phone": "Not Available"
+      },
+      "imtiaznaved@gmail-com": {
+        "designation": "Lecturer",
+        "email": "imtiaznaved@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041050.jpeg",
+        "name": "Mr. Mir Imtiaz Mostafiz",
+        "phone": "Not Available"
+      },
+      "joy-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "joy.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041114.jpeg",
+        "name": "Mr. Sajib Kumar Saha Joy",
+        "phone": "01740-413252"
+      },
+      "jubair-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "jubair.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041048.jpeg",
+        "name": "Mr. Mohammad Imrul Jubair",
+        "phone": "01722-682783"
+      },
+      "kalpoma@aust-edu": {
+        "designation": "Professor& Director ICT Center",
+        "email": "kalpoma@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041074.jpeg",
+        "name": "Prof. Dr. Kazi A Kalpoma",
+        "phone": "01819-127854"
+      },
+      "khairul271276@aust-edu": {
+        "designation": "Associate Professor",
+        "email": "khairul271276@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041003.jpeg",
+        "name": "Mr. Md. Khairul Hasan",
+        "phone": "01711-109629"
+      },
+      "maruf-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "maruf.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041104.jpeg",
+        "name": "Mr. Mohammad Marufur Rahman",
+        "phone": "018 1947 3569"
+      },
+      "masudur-rahman0413-cse@aust-edu": {
+        "designation": "Lecturer Grade- I",
+        "email": "masudur.rahman0413.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041094.jpeg",
+        "name": "Mr. Md. Masudur Rahman",
+        "phone": "Not Available"
+      },
+      "mohsena_ria-cse@aust-edu": {
+        "designation": "Lecturer Grade- I",
+        "email": "mohsena_ria.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041096.jpeg",
+        "name": "Ms. Mohsena Ashraf",
+        "phone": "01685-015080"
+      },
+      "moinul@aust-edu": {
+        "designation": "Associate Professor",
+        "email": "moinul@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041039.jpeg",
+        "name": "Mr. Mohammad Moinul Hoque",
+        "phone": "01817-579779"
+      },
+      "mtnayeem-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "mtnayeem.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041076.jpeg",
+        "name": "Mr. Mir Tafseer Nayeem",
+        "phone": "Not Available"
+      },
+      "nazmussakib009@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "nazmussakib009@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041017.jpeg",
+        "name": "Mr. Nazmus Sakib",
+        "phone": "01939-900271"
+      },
+      "nibir-cse@aust-edu": {
+        "designation": "Lecturer Grade- I",
+        "email": "nibir.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041091.jpeg",
+        "name": "Mr. Nibir Chandra Mandal",
+        "phone": "01878-077309"
+      },
+      "rajon99@gmail-com": {
+        "designation": "Assistant Professor",
+        "email": "rajon99@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041019.jpeg",
+        "name": "Mr. D.M. Anisuzzaman",
+        "phone": "Not Available"
+      },
+      "raqeebir-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "raqeebir.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041020.jpeg",
+        "name": "Ms. Raqeebir Rab",
+        "phone": "01779-001291"
+      },
+      "raqib-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "raqib.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041121.jpeg",
+        "name": "Dr. Md. Raqibul Hasan",
+        "phone": "01705-212098"
+      },
+      "reasad-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "reasad.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041113.jpeg",
+        "name": "Mr. Md. Reasad Zaman Chowdhury",
+        "phone": "01744-94452"
+      },
+      "saddamhossain-as@aust-edu": {
+        "designation": "Lecturer ",
+        "email": "saddamhossain.as@aust.edu",
+        "img": "https://drive.google.com/drive/folders/1AK5w5V46nQ0EGrDd7y2NJ9sCWC85SVm8",
+        "name": "Md Saddam Hossain",
+        "phone": "01746196680"
+      },
+      "seum-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "seum.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041115.jpeg",
+        "name": "Mr. Ashek Seum",
+        "phone": "01623-247656"
+      },
+      "shabnam-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "shabnam.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041011.jpeg",
+        "name": "Ms. Syeda Shabnam Hasan",
+        "phone": "01914-130189"
+      },
+      "shafiul-cse@aust-edu": {
+        "designation": "Professor& Head CSE",
+        "email": "shafiul.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041004.jpeg",
+        "name": "Dr. Mohammad Shafiul Alam",
+        "phone": "01715-104101"
+      },
+      "shahariar_shibli-cse@aust-edu": {
+        "designation": "Lecturer Grade- I",
+        "email": "shahariar_shibli.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041085.jpeg",
+        "name": "Mr. G. M. Shahariar",
+        "phone": "01687-842121"
+      },
+      "shahriar-cse@aust-edu": {
+        "designation": "Professor",
+        "email": "shahriar.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041082.jpeg",
+        "name": "Dr. Md. Shahriar Mahbub",
+        "phone": "01748-567161"
+      },
+      "shawontanvir-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "shawontanvir.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041110.jpeg",
+        "name": "Mr. Md. Tanvir Rouf Shawon",
+        "phone": "0177343 9315"
+      },
+      "shoeb-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "shoeb.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041033.jpeg",
+        "name": "Mr. Shoeb Mohammad Shahriar",
+        "phone": "01917-256784"
+      },
+      "siamansary-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "siamansary.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041111.jpeg",
+        "name": "Mr. Md. Siam Ansary",
+        "phone": "01316-985815"
+      },
+      "tahsinaziz-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "tahsinaziz.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041029.jpeg",
+        "name": "Ms. Tahsin Aziz",
+        "phone": "01712-019558"
+      },
+      "taksir-cse@aust-edu": {
+        "designation": "Lecturer",
+        "email": "Taksir.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041034.jpeg",
+        "name": "Mr. Md. Taksir Hasan Majumder",
+        "phone": ""
+      },
+      "tamanna-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "tamanna.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041118.jpeg",
+        "name": "Ms. Tamanna Tabassum",
+        "phone": "01676-572327"
+      },
+      "tanvir-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "tanvir.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041008.jpeg",
+        "name": "Mr. Tanvir Ahmed",
+        "phone": "01747-584076"
+      },
+      "tasfia-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "tasfia.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041089.jpeg",
+        "name": "Ms. Tasfia Zahin",
+        "phone": "Not Available"
+      },
+      "tawkat-cse@aust-edu": {
+        "designation": "Lecturer Grade- I I",
+        "email": "tawkat.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041093.jpeg",
+        "name": "Mr. Md. Tawkat Islam Khondaker",
+        "phone": "Not Available"
+      },
+      "walid-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "walid.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041016.jpeg",
+        "name": "Mr. Md. Hosne Al Walid Shaiket",
+        "phone": "Not Available"
+      },
+      "wasi_cse25@yahoo-com": {
+        "designation": "Assistant Professor",
+        "email": "wasi_cse25@yahoo.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041009.jpeg",
+        "name": "Mr. Md. Wasi Ul Kabir",
+        "phone": "Not Available"
+      },
+      "yaseenadib-cse@aust-edu": {
+        "designation": "Lecturer",
+        "email": "yaseenadib.cse@aust.edu",
+        "img": "https://www.google.com/search?q=demo+image&oq=demo+image&aqs=chrome..69i57j0i512l7.1713j1j9&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8#imgrc=fvIJWeG0sz8kIM",
+        "name": "Yaseen Adib",
+        "phone": "01821965051"
+      },
+      "zabir-haque-cse@aust-edu": {
+        "designation": "Assistant Professor",
+        "email": "zabir.haque.cse@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/041102.jpeg",
+        "name": "Mr. H M Zabir Haque",
+        "phone": "01911-289247"
+      },
+      "zarintasnim14@gmail-com": {
+        "designation": "Lecturer Grade- I",
+        "email": "zarintasnim14@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/041120.jpeg",
+        "name": "Ms. Zarin Tasnim Shejuti",
+        "phone": "01622-672977"
+      }
+
+    },
+    "eee": {
+      "baki-akalam-eee@aust-edu": {
+        "Name": "Prof. Dr. A K M Baki",
+        "Designation": "Professor",
+        "Email": "baki.akalam.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051009.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sbiswas-eee@aust-edu": {
+        "Name": "Prof. Dr. Satyendra Nath Biswas",
+        "Designation": "Professor",
+        "Email": "sbiswas.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051002.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ehtesan@aust-edu": {
+        "Name": "Prof. Dr. A.K.M. Ehtesanul Islam",
+        "Designation": "Professor",
+        "Email": "ehtesan@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051003.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "taziz-eee@aust-edu": {
+        "Name": "Prof. Dr. Tareq Aziz",
+        "Designation": "Professor",
+        "Email": "taziz.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051008.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "bobby@aust-edu": {
+        "Name": "Prof. Dr. Bobby Barua",
+        "Designation": "Professor",
+        "Email": "bobby@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051013.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mizan-eee@aust-edu": {
+        "Name": "Prof. Dr. Md. Meganur Rhaman",
+        "Designation": "Professor",
+        "Email": "mizan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051014.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "omar-eee@aust-edu": {
+        "Name": "Prof. Dr. Omar Farrok",
+        "Designation": "Professor",
+        "Email": "omar.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051019.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "monjurm@aust-edu": {
+        "Name": "Mr. Monjur Morshed",
+        "Designation": "Associate Professor",
+        "Email": "monjurm@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051012.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "r-r-mahmud-eee@aust-edu": {
+        "Name": "Dr. Russel Reza Mahmud",
+        "Designation": "Associate Professor",
+        "Email": "r.r.mahmud.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051020.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shariful-eee@aust-edu": {
+        "Name": "Mr. Md. Shariful Islam",
+        "Designation": "Associate Professor",
+        "Email": "shariful.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051018.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "uhany-eee@aust-edu": {
+        "Name": "Dr. Umma Hany",
+        "Designation": "Associate Professor",
+        "Email": "uhany.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051110.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mjrahimi-eee@aust-edu": {
+        "Name": "Mr. Muhammad Jakaria Rahimi",
+        "Designation": "Associate Professor",
+        "Email": "mjrahimi.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051016.jpeg",
+        "Phone Number": "Not Available"
+      },
+
+      "fshossain-eee@aust-edu": {
+        "Name": "Dr. Fakir Sharif Hossain",
+        "Designation": "Associate Professor",
+        "Email": "fshossain.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051114.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "jua-eee@aust-edu": {
+        "Name": "Mr. Jamal Uddin Ahmed",
+        "Designation": "Associate Professor",
+        "Email": "jua.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051010.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "dummy@gmail-com": {
+        "Name": "Mr. Faisal Imam",
+        "Designation": "Assistant Professor",
+        "Email": "dummy@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051095.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "dummy@gmail-com2": {
+        "Name": "Mr. Md. Mobarak Hossain Polash",
+        "Designation": "Assistant Professor",
+        "Email": "dummy@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051027.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "aziznur-saif@gmail-com": {
+        "Name": "Mr. Aziz-Un-Nur Ibn Saif",
+        "Designation": "Assistant Professor",
+        "Email": "aziznur.saif@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051028.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "kkh-dia@gmail-com": {
+        "Name": "Ms. Kazi Khurshidi Haque Dia",
+        "Designation": "Assistant Professor",
+        "Email": "kkh.dia@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051032.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "dummy@gmail-com3": {
+        "Name": "Mr. Md. Imtiaz Alamgir",
+        "Designation": "Assistant Professor",
+        "Email": "dummy@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051030.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "alamin-zaman@gmail-com": {
+        "Name": "Mr. Md. Rasheduzzaman Al-Amin",
+        "Designation": "Assistant Professor",
+        "Email": "alamin.zaman@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051045.jpeg",
+        "Phone Number": "Not Available"
+      },
+
+      "tashfiq-kashem@gmail-com": {
+        "Name": "Mr. Md. Tashfiq Bin Kashem",
+        "Designation": "Assistant Professor",
+        "Email": "tashfiq.kashem@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051065.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "abdh-jf@gmail-com": {
+        "Name": "Mr. Ahammad",
+        "Designation": "Assistant Professor",
+        "Email": "abdh.jf@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051024.jpeg",
+        "Phone Number": "Not Available"
+      },
+
+      "shuvashisdasgupta@yahoo-com": {
+        "Name": "Mr. Shuvashis Das Gupta",
+        "Designation": "Assistant Professor",
+        "Email": "shuvashisdasgupta@yahoo.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051037.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ahmadullahsiddiq-eee@aust-edu": {
+        "Name": "Mr. Ahmadullah Siddiq",
+        "Designation": "Assistant Professor",
+        "Email": "ahmadullahsiddiq.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051011.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "anupamatasneem@yahoo-com": {
+        "Name": "Ms. Mrs. Anupama Tasneem",
+        "Designation": "Assistant Professor",
+        "Email": "anupamatasneem@yahoo.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051017.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "nahyan-eee@aust-edu": {
+        "Name": "Mr. Nahyan Al Mahmud",
+        "Designation": "Assistant Professor",
+        "Email": "nahyan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051021.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mmarahman-eee@aust-edu": {
+        "Name": "Mr. M. M. Atiqur Rahman",
+        "Designation": "Assistant Professor",
+        "Email": "mmarahman.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051022.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "zannatul_f-eee@aust-edu": {
+        "Name": "Ms. Zannatul Ferdous",
+        "Designation": "Assistant Professor",
+        "Email": "zannatul_f.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051062.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ishtiak-eee@aust-edu": {
+        "Name": "Mr. Khandakar Md. Ishtiak",
+        "Designation": "Assistant Professor",
+        "Email": "ishtiak.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051023.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "hasib-eee@aust-edu": {
+        "Name": "Mr. Hasib Md. Abid Bin Farid",
+        "Designation": "Assistant Professor",
+        "Email": "hasib.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051025.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "eminhaz@gmail-com": {
+        "Name": "Mr. Mohammad Minhaz Akram",
+        "Designation": "Assistant Professor",
+        "Email": "eminhaz@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051026.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "towhid6789@yahoo-com": {
+        "Name": "Mr. Towhid Adnan Chowdhury",
+        "Designation": "Assistant Professor",
+        "Email": "towhid6789@yahoo.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051097.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "safayat_imam-eee@aust-edu": {
+        "Name": "Mr. Safayat-Al-Imam",
+        "Designation": "Assistant Professor",
+        "Email": "safayat_imam.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051063.jpeg",
+        "Phone Number": "Not Available"
+      },
+
+      "lubaba-eee@aust-edu": {
+        "Name": "Ms. Khandaker Lubaba Bashar",
+        "Designation": "Assistant Professor",
+        "Email": "lubaba.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051029.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ata_e_rabbi-eee@aust-edu": {
+        "Name": "Mr. Ata-E-Rabbi",
+        "Designation": "Assistant Professor",
+        "Email": "ata_e_rabbi.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051048.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "aminur-rahman-eee@aust-edu": {
+        "Name": "Mr. Md. Aminur Rahman",
+        "Designation": "Assistant Professor",
+        "Email": "aminur.rahman.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051031.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "kztawseef-eee@aust-edu": {
+        "Name": "Mr. Kazi Tauseef Mohammad",
+        "Designation": "Assistant Professor",
+        "Email": "kztawseef.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051034.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sharmin-eee@aust-edu": {
+        "Name": "Ms. Sharmin Sobhan",
+        "Designation": "Assistant Professor",
+        "Email": "sharmin.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051035.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shaila-arif-eee@aust-edu": {
+        "Name": "Ms. Shaila Arif",
+        "Designation": "Assistant Professor",
+        "Email": "shaila.arif.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051064.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "nahid-eee@aust-edu": {
+        "Name": "Mr. Nahid-Ur-Rahman Chowdhury",
+        "Designation": "Assistant Professor",
+        "Email": "nahid.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051061.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "tanvir-eee@aust-edu": {
+        "Name": "Mr. Tanvir Ahmad",
+        "Designation": "Assistant Professor",
+        "Email": "tanvir.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051038.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "adnan-eee@aust-edu": {
+        "Name": "Mr. Md. Adnan Quaium",
+        "Designation": "Assistant Professor",
+        "Email": "adnan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051069.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "istiaque08@gmail-com": {
+        "Name": "Mr. Md. Istiaque Rahaman",
+        "Designation": "Assistant Professor",
+        "Email": "istiaque08@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051040.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sameermojlish-eee@aust-edu": {
+        "Name": "Mr. Sameer Ahmed Khan Mojish",
+        "Designation": "Assistant Professor",
+        "Email": "sameermojlish.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051086.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "t-jamal-eee@aust-edu": {
+        "Name": "Dr. Taskin Jamal",
+        "Designation": "Assistant Professor",
+        "Email": "t.jamal.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051103.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "faysal-nayan-eee@aust-edu": {
+        "Name": "Mr. Md. Faysal Nayan",
+        "Designation": "Assistant Professor",
+        "Email": "faysal.nayan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051033.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ariful-islam-eee@aust-edu": {
+        "Name": "Mr. Md. Ariful Islam",
+        "Designation": "Assistant Professor",
+        "Email": "ariful.islam.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051041.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "jahansmriti-eee@aust-edu": {
+        "Name": "Ms. Israt Jahan",
+        "Designation": "Assistant Professor",
+        "Email": "jahansmriti.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051036.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sumit-saurov-eee@aust-edu": {
+        "Name": "Mr. Sumit Narayan Saurov",
+        "Designation": "Assistant Professor",
+        "Email": "sumit.saurov.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051039.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "silvia-eee@aust-edu": {
+        "Name": "Ms. Silvia Tasnim",
+        "Designation": "Assistant Professor",
+        "Email": "silvia.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051067.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shaela-eee@aust-edu": {
+        "Name": "Ms. Shaela Sharmin Ritu",
+        "Designation": "Assistant Professor",
+        "Email": "shaela.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051056.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "aumahin-eee@aust-edu": {
+        "Name": "Mr. Ayman Uddin Mahin",
+        "Designation": "Assistant Professor",
+        "Email": "aumahin.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051071.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ishraqulhuq-eee@aust-edu": {
+        "Name": "Mr. S. M. Ishraqul Huq",
+        "Designation": "Assistant Professor",
+        "Email": "ishraqulhuq.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051070.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "irtiaz_khan-eee@aust-edu": {
+        "Name": "Mr. Ferdous Irtiaz Khan",
+        "Designation": "Assistant Professor",
+        "Email": "irtiaz_khan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051073.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "abid-eee@aust-edu": {
+        "Name": "Mr. Abidur Rahman",
+        "Designation": "Assistant Professor",
+        "Email": "abid.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051080.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ferdous-eee@aust-edu": {
+        "Name": "Mr. Ferdous S. Azad",
+        "Designation": "Assistant Professor",
+        "Email": "ferdous.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051102.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shameemhasan-eee@aust-edu": {
+        "Name": "Mr. Shameem Hasan",
+        "Designation": "Assistant Professor",
+        "Email": "shameemhasan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051117.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "zahid-eee@aust-edu": {
+        "Name": "Dr. A S M Zahid Kausar",
+        "Designation": "Assistant Professor",
+        "Email": "zahid.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051120.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sm-salimullah-eee@aust-edu": {
+        "Name": "Mr. Shah Md. Salimullah",
+        "Designation": "Assistant Professor",
+        "Email": "sm.salimullah.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051123.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "monzur-dewan@gmail-com": {
+        "Name": "Mr. Dewan Monzurul Islam",
+        "Designation": "Lecturer",
+        "Email": "monzur.dewan@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051092.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mahmud-sajeeb08@gmail-com": {
+        "Name": "Mr. M. Mahmudul Hasan Sajeeb",
+        "Designation": "Lecturer",
+        "Email": "mahmud.sajeeb08@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051042.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "uahsan28@hotmail-com": {
+        "Name": "Mr. Kazi Ahmed Ahsan Ullah",
+        "Designation": "Lecturer",
+        "Email": "uahsan28@hotmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051098.jpeg",
+        "Phone Number": "Not Available"
+      },
+
+      "anupam-eee@aust-edu": {
+        "Name": "Mr. Anupam Golder",
+        "Designation": "Lecturer",
+        "Email": "anupam.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051044.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "dummy@gmail-com5": {
+        "Name": "Mr. Md. Tanvir Ahammed",
+        "Designation": "Lecturer",
+        "Email": "dummy@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051043.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "dummy@gmail-com4": {
+        "Name": "Ms. Rubaiya Binte Hussain",
+        "Designation": "Lecturer",
+        "Email": "dummy@gmail.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051049.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shahabeee_06@yahoo-com": {
+        "Name": "Mr. Md. Abu Shahab Mollah",
+        "Designation": "Lecturer",
+        "Email": "shahabeee_06@yahoo.com",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051088.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "naznin_buet-eee@aust-edu": {
+        "Name": "Ms. Naznin Sultana",
+        "Designation": "Lecturer",
+        "Email": "naznin_buet.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051066.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "aura-eee@aust-edu": {
+        "Name": "Ms. Shourin Rahman Aura",
+        "Designation": "Lecturer Grade-I",
+        "Email": "aura.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051072.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mushfiq-ahmed-025-eee@aust-edu": {
+        "Name": "Mr. Mushfiqul Ahmed",
+        "Designation": "Lecturer Grade-I",
+        "Email": "mushfiq.ahmed.025.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051074.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "tanizamarium-eee@aust-edu": {
+        "Name": "Ms. Taniza Marium",
+        "Designation": "Lecturer",
+        "Email": "tanizamarium.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051081.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "aminul-eee@aust-edu": {
+        "Name": "Mr. Md.  Aminul Islam",
+        "Designation": "Lecturer Grade-I",
+        "Email": "aminul.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051087.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "oli-eee@aust-edu": {
+        "Name": "Ms. Oli Lowna Baroi",
+        "Designation": "Lecturer Grade-I",
+        "Email": "oli.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051082.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "abrar-eee@aust-edu": {
+        "Name": "Mr. Md Shaikh Abrar Kabir",
+        "Designation": "Lecturer Grade-I",
+        "Email": "abrar.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051077.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "tyafur-eee@aust-edu": {
+        "Name": "Mr. Tyafur Rahman Pathan",
+        "Designation": "Lecturer Grade-I",
+        "Email": "tyafur.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051084.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "mamun-eee@aust-edu": {
+        "Name": "Mr. Md. Abdullah-Al-Mamun",
+        "Designation": "Lecturer Grade-I",
+        "Email": "mamun.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051078.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "shihab-eee@aust-edu": {
+        "Name": "Mr. Sk. Aqiluzzaman Shihab",
+        "Designation": "Lecturer Grade-I",
+        "Email": "shihab.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051108.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "fabliha-eee@aust-edu": {
+        "Name": "Ms. Fabliha Ahmed",
+        "Designation": "Lecturer Grade-I",
+        "Email": "fabliha.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051100.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "hridi-eee@aust-edu": {
+        "Name": "Ms. Hridi Juberi",
+        "Designation": "Lecturer Grade-I",
+        "Email": "hridi.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051107.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "ashifur-eee@aust-edu": {
+        "Name": "Mr. Md. Ashifur Rahman",
+        "Designation": "Lecturer Grade-I",
+        "Email": "ashifur.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051111.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "imran-eee@aust-edu": {
+        "Name": "Mr. Imran Rahman",
+        "Designation": "Lecturer Grade-I",
+        "Email": "imran.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051124.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "sjhamim-eee@aust-edu": {
+        "Name": "Mr. S. J. Hamim",
+        "Designation": "Lecturer Grade-I",
+        "Email": "sjhamim.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051122.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "senjuti-eee@aust-edu": {
+        "Name": "Ms. Senjuti Rahman",
+        "Designation": "Lecturer Grade-I",
+        "Email": "senjuti.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051121.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "nayeema-eee@aust-edu": {
+        "Name": "Ms. Nayeema Hasan",
+        "Designation": "Lecturer Grade-II",
+        "Email": "nayeema.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051113.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "faisalfarhan-eee@aust-edu": {
+        "Name": "Mr. Faisal Farhan",
+        "Designation": "Lecturer Grade-II",
+        "Email": "faisalfarhan.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051115.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "adnanaminsiddiquee-eee@aust-edu": {
+        "Name": "Mr. Adnan Amin Siddiquee",
+        "Designation": "Lecturer Grade-II",
+        "Email": "adnanaminsiddiquee.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051116.jpeg",
+        "Phone Number": "Not Available"
+      },
+      "nafiz-eee@aust-edu": {
+        "Name": "Mr. Nafiz Imtiaz",
+        "Designation": "Lecturer Grade-II",
+        "Email": "nafiz.eee@aust.edu",
+        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051118.jpeg",
+        "Phone Number": "Not Available"
+      }
+
+    }
+  }
+}

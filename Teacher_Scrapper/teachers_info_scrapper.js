@@ -2,16 +2,18 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const departmentName = 'te'
-const fileName =  'teachers_info_' + departmentName + '.csv';
+const departmentName = 'eee'
+const fileName = 'teachers_info_' + departmentName + '.csv';
 const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members'
+
+
 const writeStream = fs.createWriteStream(fileName);
 
 
 writeStream.write(`Name,Designation,Email,Imagelink,Phone Number\n`);
 
 
-request( WebsiteLink, (error, response, html) => {
+request(WebsiteLink, (error, response, html) => {
 
     if (!error && response.statusCode == 200) {
         console.log('Successfully scraped the website.');
@@ -30,7 +32,17 @@ request( WebsiteLink, (error, response, html) => {
 
             // console.log(name);
             // console.log(designation);
-            // console.log(email)
+            var converted = "\"";
+
+            for (var i = 0; i < email.length; i++) {
+                if (email[i] == ".")
+                    converted += "-";
+                else
+                    converted += email[i];
+
+            }
+            converted+= "\":"
+            console.log(converted)
             // console.log(img)
             // console.log(phone)
             // console.log("\n")
