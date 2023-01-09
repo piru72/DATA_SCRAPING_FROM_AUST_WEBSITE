@@ -2,7 +2,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const departmentName = 'eee'
+const departmentName = 'te'
 const fileName = 'teachers_info_' + departmentName + '.csv';
 const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members'
 
@@ -32,6 +32,8 @@ request(WebsiteLink, (error, response, html) => {
 
             // console.log(name);
             // console.log(designation);
+
+    
             var converted = "\"";
 
             for (var i = 0; i < email.length; i++) {
@@ -39,7 +41,6 @@ request(WebsiteLink, (error, response, html) => {
                     converted += "-";
                 else
                     converted += email[i];
-
             }
             converted+= "\":"
             console.log(converted)

@@ -2313,615 +2313,617 @@
       }
 
     },
+
     "eee": {
       "baki-akalam-eee@aust-edu": {
-        "Name": "Prof. Dr. A K M Baki",
-        "Designation": "Professor",
-        "Email": "baki.akalam.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051009.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. A K M Baki",
+        "designation": "Professor",
+        "email": "baki.akalam.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051009.jpeg",
+        "phone": "Not Available"
       },
       "sbiswas-eee@aust-edu": {
-        "Name": "Prof. Dr. Satyendra Nath Biswas",
-        "Designation": "Professor",
-        "Email": "sbiswas.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051002.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. Satyendra Nath Biswas",
+        "designation": "Professor",
+        "email": "sbiswas.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051002.jpeg",
+        "phone": "Not Available"
       },
       "ehtesan@aust-edu": {
-        "Name": "Prof. Dr. A.K.M. Ehtesanul Islam",
-        "Designation": "Professor",
-        "Email": "ehtesan@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051003.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. A.K.M. Ehtesanul Islam",
+        "designation": "Professor",
+        "email": "ehtesan@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051003.jpeg",
+        "phone": "Not Available"
       },
       "taziz-eee@aust-edu": {
-        "Name": "Prof. Dr. Tareq Aziz",
-        "Designation": "Professor",
-        "Email": "taziz.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051008.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. Tareq Aziz",
+        "designation": "Professor",
+        "email": "taziz.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051008.jpeg",
+        "phone": "Not Available"
       },
       "bobby@aust-edu": {
-        "Name": "Prof. Dr. Bobby Barua",
-        "Designation": "Professor",
-        "Email": "bobby@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051013.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. Bobby Barua",
+        "designation": "Professor",
+        "email": "bobby@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051013.jpeg",
+        "phone": "Not Available"
       },
       "mizan-eee@aust-edu": {
-        "Name": "Prof. Dr. Md. Meganur Rhaman",
-        "Designation": "Professor",
-        "Email": "mizan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051014.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. Md. Meganur Rhaman",
+        "designation": "Professor",
+        "email": "mizan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051014.jpeg",
+        "phone": "Not Available"
       },
       "omar-eee@aust-edu": {
-        "Name": "Prof. Dr. Omar Farrok",
-        "Designation": "Professor",
-        "Email": "omar.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051019.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Prof. Dr. Omar Farrok",
+        "designation": "Professor",
+        "email": "omar.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051019.jpeg",
+        "phone": "Not Available"
       },
       "monjurm@aust-edu": {
-        "Name": "Mr. Monjur Morshed",
-        "Designation": "Associate Professor",
-        "Email": "monjurm@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051012.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Monjur Morshed",
+        "designation": "Associate Professor",
+        "email": "monjurm@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051012.jpeg",
+        "phone": "Not Available"
       },
       "r-r-mahmud-eee@aust-edu": {
-        "Name": "Dr. Russel Reza Mahmud",
-        "Designation": "Associate Professor",
-        "Email": "r.r.mahmud.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051020.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Dr. Russel Reza Mahmud",
+        "designation": "Associate Professor",
+        "email": "r.r.mahmud.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051020.jpeg",
+        "phone": "Not Available"
       },
       "shariful-eee@aust-edu": {
-        "Name": "Mr. Md. Shariful Islam",
-        "Designation": "Associate Professor",
-        "Email": "shariful.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051018.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Shariful Islam",
+        "designation": "Associate Professor",
+        "email": "shariful.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051018.jpeg",
+        "phone": "Not Available"
       },
       "uhany-eee@aust-edu": {
-        "Name": "Dr. Umma Hany",
-        "Designation": "Associate Professor",
-        "Email": "uhany.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051110.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Dr. Umma Hany",
+        "designation": "Associate Professor",
+        "email": "uhany.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051110.jpeg",
+        "phone": "Not Available"
       },
       "mjrahimi-eee@aust-edu": {
-        "Name": "Mr. Muhammad Jakaria Rahimi",
-        "Designation": "Associate Professor",
-        "Email": "mjrahimi.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051016.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Muhammad Jakaria Rahimi",
+        "designation": "Associate Professor",
+        "email": "mjrahimi.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051016.jpeg",
+        "phone": "Not Available"
       },
 
       "fshossain-eee@aust-edu": {
-        "Name": "Dr. Fakir Sharif Hossain",
-        "Designation": "Associate Professor",
-        "Email": "fshossain.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051114.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Dr. Fakir Sharif Hossain",
+        "designation": "Associate Professor",
+        "email": "fshossain.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051114.jpeg",
+        "phone": "Not Available"
       },
       "jua-eee@aust-edu": {
-        "Name": "Mr. Jamal Uddin Ahmed",
-        "Designation": "Associate Professor",
-        "Email": "jua.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051010.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Jamal Uddin Ahmed",
+        "designation": "Associate Professor",
+        "email": "jua.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051010.jpeg",
+        "phone": "Not Available"
       },
       "dummy@gmail-com": {
-        "Name": "Mr. Faisal Imam",
-        "Designation": "Assistant Professor",
-        "Email": "dummy@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051095.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Faisal Imam",
+        "designation": "Assistant Professor",
+        "email": "dummy@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051095.jpeg",
+        "phone": "Not Available"
       },
       "dummy@gmail-com2": {
-        "Name": "Mr. Md. Mobarak Hossain Polash",
-        "Designation": "Assistant Professor",
-        "Email": "dummy@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051027.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Mobarak Hossain Polash",
+        "designation": "Assistant Professor",
+        "email": "dummy@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051027.jpeg",
+        "phone": "Not Available"
       },
       "aziznur-saif@gmail-com": {
-        "Name": "Mr. Aziz-Un-Nur Ibn Saif",
-        "Designation": "Assistant Professor",
-        "Email": "aziznur.saif@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051028.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Aziz-Un-Nur Ibn Saif",
+        "designation": "Assistant Professor",
+        "email": "aziznur.saif@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051028.jpeg",
+        "phone": "Not Available"
       },
       "kkh-dia@gmail-com": {
-        "Name": "Ms. Kazi Khurshidi Haque Dia",
-        "Designation": "Assistant Professor",
-        "Email": "kkh.dia@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051032.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Kazi Khurshidi Haque Dia",
+        "designation": "Assistant Professor",
+        "email": "kkh.dia@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051032.jpeg",
+        "phone": "Not Available"
       },
       "dummy@gmail-com3": {
-        "Name": "Mr. Md. Imtiaz Alamgir",
-        "Designation": "Assistant Professor",
-        "Email": "dummy@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051030.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Imtiaz Alamgir",
+        "designation": "Assistant Professor",
+        "email": "dummy@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051030.jpeg",
+        "phone": "Not Available"
       },
       "alamin-zaman@gmail-com": {
-        "Name": "Mr. Md. Rasheduzzaman Al-Amin",
-        "Designation": "Assistant Professor",
-        "Email": "alamin.zaman@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051045.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Rasheduzzaman Al-Amin",
+        "designation": "Assistant Professor",
+        "email": "alamin.zaman@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051045.jpeg",
+        "phone": "Not Available"
       },
 
       "tashfiq-kashem@gmail-com": {
-        "Name": "Mr. Md. Tashfiq Bin Kashem",
-        "Designation": "Assistant Professor",
-        "Email": "tashfiq.kashem@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051065.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Tashfiq Bin Kashem",
+        "designation": "Assistant Professor",
+        "email": "tashfiq.kashem@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051065.jpeg",
+        "phone": "Not Available"
       },
       "abdh-jf@gmail-com": {
-        "Name": "Mr. Ahammad",
-        "Designation": "Assistant Professor",
-        "Email": "abdh.jf@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051024.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ahammad",
+        "designation": "Assistant Professor",
+        "email": "abdh.jf@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051024.jpeg",
+        "phone": "Not Available"
       },
 
       "shuvashisdasgupta@yahoo-com": {
-        "Name": "Mr. Shuvashis Das Gupta",
-        "Designation": "Assistant Professor",
-        "Email": "shuvashisdasgupta@yahoo.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051037.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Shuvashis Das Gupta",
+        "designation": "Assistant Professor",
+        "email": "shuvashisdasgupta@yahoo.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051037.jpeg",
+        "phone": "Not Available"
       },
       "ahmadullahsiddiq-eee@aust-edu": {
-        "Name": "Mr. Ahmadullah Siddiq",
-        "Designation": "Assistant Professor",
-        "Email": "ahmadullahsiddiq.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051011.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ahmadullah Siddiq",
+        "designation": "Assistant Professor",
+        "email": "ahmadullahsiddiq.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051011.jpeg",
+        "phone": "Not Available"
       },
       "anupamatasneem@yahoo-com": {
-        "Name": "Ms. Mrs. Anupama Tasneem",
-        "Designation": "Assistant Professor",
-        "Email": "anupamatasneem@yahoo.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051017.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Mrs. Anupama Tasneem",
+        "designation": "Assistant Professor",
+        "email": "anupamatasneem@yahoo.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051017.jpeg",
+        "phone": "Not Available"
       },
       "nahyan-eee@aust-edu": {
-        "Name": "Mr. Nahyan Al Mahmud",
-        "Designation": "Assistant Professor",
-        "Email": "nahyan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051021.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Nahyan Al Mahmud",
+        "designation": "Assistant Professor",
+        "email": "nahyan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051021.jpeg",
+        "phone": "Not Available"
       },
       "mmarahman-eee@aust-edu": {
-        "Name": "Mr. M. M. Atiqur Rahman",
-        "Designation": "Assistant Professor",
-        "Email": "mmarahman.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051022.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. M. M. Atiqur Rahman",
+        "designation": "Assistant Professor",
+        "email": "mmarahman.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051022.jpeg",
+        "phone": "Not Available"
       },
       "zannatul_f-eee@aust-edu": {
-        "Name": "Ms. Zannatul Ferdous",
-        "Designation": "Assistant Professor",
-        "Email": "zannatul_f.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051062.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Zannatul Ferdous",
+        "designation": "Assistant Professor",
+        "email": "zannatul_f.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051062.jpeg",
+        "phone": "Not Available"
       },
       "ishtiak-eee@aust-edu": {
-        "Name": "Mr. Khandakar Md. Ishtiak",
-        "Designation": "Assistant Professor",
-        "Email": "ishtiak.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051023.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Khandakar Md. Ishtiak",
+        "designation": "Assistant Professor",
+        "email": "ishtiak.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051023.jpeg",
+        "phone": "Not Available"
       },
       "hasib-eee@aust-edu": {
-        "Name": "Mr. Hasib Md. Abid Bin Farid",
-        "Designation": "Assistant Professor",
-        "Email": "hasib.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051025.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Hasib Md. Abid Bin Farid",
+        "designation": "Assistant Professor",
+        "email": "hasib.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051025.jpeg",
+        "phone": "Not Available"
       },
       "eminhaz@gmail-com": {
-        "Name": "Mr. Mohammad Minhaz Akram",
-        "Designation": "Assistant Professor",
-        "Email": "eminhaz@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051026.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Mohammad Minhaz Akram",
+        "designation": "Assistant Professor",
+        "email": "eminhaz@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051026.jpeg",
+        "phone": "Not Available"
       },
       "towhid6789@yahoo-com": {
-        "Name": "Mr. Towhid Adnan Chowdhury",
-        "Designation": "Assistant Professor",
-        "Email": "towhid6789@yahoo.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051097.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Towhid Adnan Chowdhury",
+        "designation": "Assistant Professor",
+        "email": "towhid6789@yahoo.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051097.jpeg",
+        "phone": "Not Available"
       },
       "safayat_imam-eee@aust-edu": {
-        "Name": "Mr. Safayat-Al-Imam",
-        "Designation": "Assistant Professor",
-        "Email": "safayat_imam.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051063.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Safayat-Al-Imam",
+        "designation": "Assistant Professor",
+        "email": "safayat_imam.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051063.jpeg",
+        "phone": "Not Available"
       },
 
       "lubaba-eee@aust-edu": {
-        "Name": "Ms. Khandaker Lubaba Bashar",
-        "Designation": "Assistant Professor",
-        "Email": "lubaba.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051029.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Khandaker Lubaba Bashar",
+        "designation": "Assistant Professor",
+        "email": "lubaba.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051029.jpeg",
+        "phone": "Not Available"
       },
       "ata_e_rabbi-eee@aust-edu": {
-        "Name": "Mr. Ata-E-Rabbi",
-        "Designation": "Assistant Professor",
-        "Email": "ata_e_rabbi.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051048.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ata-E-Rabbi",
+        "designation": "Assistant Professor",
+        "email": "ata_e_rabbi.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051048.jpeg",
+        "phone": "Not Available"
       },
       "aminur-rahman-eee@aust-edu": {
-        "Name": "Mr. Md. Aminur Rahman",
-        "Designation": "Assistant Professor",
-        "Email": "aminur.rahman.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051031.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Aminur Rahman",
+        "designation": "Assistant Professor",
+        "email": "aminur.rahman.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051031.jpeg",
+        "phone": "Not Available"
       },
       "kztawseef-eee@aust-edu": {
-        "Name": "Mr. Kazi Tauseef Mohammad",
-        "Designation": "Assistant Professor",
-        "Email": "kztawseef.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051034.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Kazi Tauseef Mohammad",
+        "designation": "Assistant Professor",
+        "email": "kztawseef.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051034.jpeg",
+        "phone": "Not Available"
       },
       "sharmin-eee@aust-edu": {
-        "Name": "Ms. Sharmin Sobhan",
-        "Designation": "Assistant Professor",
-        "Email": "sharmin.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051035.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Sharmin Sobhan",
+        "designation": "Assistant Professor",
+        "email": "sharmin.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051035.jpeg",
+        "phone": "Not Available"
       },
       "shaila-arif-eee@aust-edu": {
-        "Name": "Ms. Shaila Arif",
-        "Designation": "Assistant Professor",
-        "Email": "shaila.arif.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051064.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Shaila Arif",
+        "designation": "Assistant Professor",
+        "email": "shaila.arif.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051064.jpeg",
+        "phone": "Not Available"
       },
       "nahid-eee@aust-edu": {
-        "Name": "Mr. Nahid-Ur-Rahman Chowdhury",
-        "Designation": "Assistant Professor",
-        "Email": "nahid.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051061.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Nahid-Ur-Rahman Chowdhury",
+        "designation": "Assistant Professor",
+        "email": "nahid.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051061.jpeg",
+        "phone": "Not Available"
       },
       "tanvir-eee@aust-edu": {
-        "Name": "Mr. Tanvir Ahmad",
-        "Designation": "Assistant Professor",
-        "Email": "tanvir.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051038.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Tanvir Ahmad",
+        "designation": "Assistant Professor",
+        "email": "tanvir.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051038.jpeg",
+        "phone": "Not Available"
       },
       "adnan-eee@aust-edu": {
-        "Name": "Mr. Md. Adnan Quaium",
-        "Designation": "Assistant Professor",
-        "Email": "adnan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051069.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Adnan Quaium",
+        "designation": "Assistant Professor",
+        "email": "adnan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051069.jpeg",
+        "phone": "Not Available"
       },
       "istiaque08@gmail-com": {
-        "Name": "Mr. Md. Istiaque Rahaman",
-        "Designation": "Assistant Professor",
-        "Email": "istiaque08@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051040.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Istiaque Rahaman",
+        "designation": "Assistant Professor",
+        "email": "istiaque08@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051040.jpeg",
+        "phone": "Not Available"
       },
       "sameermojlish-eee@aust-edu": {
-        "Name": "Mr. Sameer Ahmed Khan Mojish",
-        "Designation": "Assistant Professor",
-        "Email": "sameermojlish.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051086.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Sameer Ahmed Khan Mojish",
+        "designation": "Assistant Professor",
+        "email": "sameermojlish.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051086.jpeg",
+        "phone": "Not Available"
       },
       "t-jamal-eee@aust-edu": {
-        "Name": "Dr. Taskin Jamal",
-        "Designation": "Assistant Professor",
-        "Email": "t.jamal.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051103.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Dr. Taskin Jamal",
+        "designation": "Assistant Professor",
+        "email": "t.jamal.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051103.jpeg",
+        "phone": "Not Available"
       },
       "faysal-nayan-eee@aust-edu": {
-        "Name": "Mr. Md. Faysal Nayan",
-        "Designation": "Assistant Professor",
-        "Email": "faysal.nayan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051033.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Faysal Nayan",
+        "designation": "Assistant Professor",
+        "email": "faysal.nayan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051033.jpeg",
+        "phone": "Not Available"
       },
       "ariful-islam-eee@aust-edu": {
-        "Name": "Mr. Md. Ariful Islam",
-        "Designation": "Assistant Professor",
-        "Email": "ariful.islam.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051041.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Ariful Islam",
+        "designation": "Assistant Professor",
+        "email": "ariful.islam.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051041.jpeg",
+        "phone": "Not Available"
       },
       "jahansmriti-eee@aust-edu": {
-        "Name": "Ms. Israt Jahan",
-        "Designation": "Assistant Professor",
-        "Email": "jahansmriti.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051036.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Israt Jahan",
+        "designation": "Assistant Professor",
+        "email": "jahansmriti.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051036.jpeg",
+        "phone": "Not Available"
       },
       "sumit-saurov-eee@aust-edu": {
-        "Name": "Mr. Sumit Narayan Saurov",
-        "Designation": "Assistant Professor",
-        "Email": "sumit.saurov.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051039.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Sumit Narayan Saurov",
+        "designation": "Assistant Professor",
+        "email": "sumit.saurov.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051039.jpeg",
+        "phone": "Not Available"
       },
       "silvia-eee@aust-edu": {
-        "Name": "Ms. Silvia Tasnim",
-        "Designation": "Assistant Professor",
-        "Email": "silvia.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051067.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Silvia Tasnim",
+        "designation": "Assistant Professor",
+        "email": "silvia.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051067.jpeg",
+        "phone": "Not Available"
       },
       "shaela-eee@aust-edu": {
-        "Name": "Ms. Shaela Sharmin Ritu",
-        "Designation": "Assistant Professor",
-        "Email": "shaela.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051056.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Shaela Sharmin Ritu",
+        "designation": "Assistant Professor",
+        "email": "shaela.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051056.jpeg",
+        "phone": "Not Available"
       },
       "aumahin-eee@aust-edu": {
-        "Name": "Mr. Ayman Uddin Mahin",
-        "Designation": "Assistant Professor",
-        "Email": "aumahin.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051071.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ayman Uddin Mahin",
+        "designation": "Assistant Professor",
+        "email": "aumahin.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051071.jpeg",
+        "phone": "Not Available"
       },
       "ishraqulhuq-eee@aust-edu": {
-        "Name": "Mr. S. M. Ishraqul Huq",
-        "Designation": "Assistant Professor",
-        "Email": "ishraqulhuq.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051070.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. S. M. Ishraqul Huq",
+        "designation": "Assistant Professor",
+        "email": "ishraqulhuq.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051070.jpeg",
+        "phone": "Not Available"
       },
       "irtiaz_khan-eee@aust-edu": {
-        "Name": "Mr. Ferdous Irtiaz Khan",
-        "Designation": "Assistant Professor",
-        "Email": "irtiaz_khan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051073.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ferdous Irtiaz Khan",
+        "designation": "Assistant Professor",
+        "email": "irtiaz_khan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051073.jpeg",
+        "phone": "Not Available"
       },
       "abid-eee@aust-edu": {
-        "Name": "Mr. Abidur Rahman",
-        "Designation": "Assistant Professor",
-        "Email": "abid.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051080.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Abidur Rahman",
+        "designation": "Assistant Professor",
+        "email": "abid.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051080.jpeg",
+        "phone": "Not Available"
       },
       "ferdous-eee@aust-edu": {
-        "Name": "Mr. Ferdous S. Azad",
-        "Designation": "Assistant Professor",
-        "Email": "ferdous.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051102.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Ferdous S. Azad",
+        "designation": "Assistant Professor",
+        "email": "ferdous.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051102.jpeg",
+        "phone": "Not Available"
       },
       "shameemhasan-eee@aust-edu": {
-        "Name": "Mr. Shameem Hasan",
-        "Designation": "Assistant Professor",
-        "Email": "shameemhasan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051117.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Shameem Hasan",
+        "designation": "Assistant Professor",
+        "email": "shameemhasan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051117.jpeg",
+        "phone": "Not Available"
       },
       "zahid-eee@aust-edu": {
-        "Name": "Dr. A S M Zahid Kausar",
-        "Designation": "Assistant Professor",
-        "Email": "zahid.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051120.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Dr. A S M Zahid Kausar",
+        "designation": "Assistant Professor",
+        "email": "zahid.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051120.jpeg",
+        "phone": "Not Available"
       },
       "sm-salimullah-eee@aust-edu": {
-        "Name": "Mr. Shah Md. Salimullah",
-        "Designation": "Assistant Professor",
-        "Email": "sm.salimullah.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051123.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Shah Md. Salimullah",
+        "designation": "Assistant Professor",
+        "email": "sm.salimullah.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051123.jpeg",
+        "phone": "Not Available"
       },
       "monzur-dewan@gmail-com": {
-        "Name": "Mr. Dewan Monzurul Islam",
-        "Designation": "Lecturer",
-        "Email": "monzur.dewan@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051092.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Dewan Monzurul Islam",
+        "designation": "Lecturer",
+        "email": "monzur.dewan@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051092.jpeg",
+        "phone": "Not Available"
       },
       "mahmud-sajeeb08@gmail-com": {
-        "Name": "Mr. M. Mahmudul Hasan Sajeeb",
-        "Designation": "Lecturer",
-        "Email": "mahmud.sajeeb08@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051042.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. M. Mahmudul Hasan Sajeeb",
+        "designation": "Lecturer",
+        "email": "mahmud.sajeeb08@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051042.jpeg",
+        "phone": "Not Available"
       },
       "uahsan28@hotmail-com": {
-        "Name": "Mr. Kazi Ahmed Ahsan Ullah",
-        "Designation": "Lecturer",
-        "Email": "uahsan28@hotmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051098.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Kazi Ahmed Ahsan Ullah",
+        "designation": "Lecturer",
+        "email": "uahsan28@hotmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051098.jpeg",
+        "phone": "Not Available"
       },
 
       "anupam-eee@aust-edu": {
-        "Name": "Mr. Anupam Golder",
-        "Designation": "Lecturer",
-        "Email": "anupam.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051044.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Anupam Golder",
+        "designation": "Lecturer",
+        "email": "anupam.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051044.jpeg",
+        "phone": "Not Available"
       },
       "dummy@gmail-com5": {
-        "Name": "Mr. Md. Tanvir Ahammed",
-        "Designation": "Lecturer",
-        "Email": "dummy@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051043.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Tanvir Ahammed",
+        "designation": "Lecturer",
+        "email": "dummy@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051043.jpeg",
+        "phone": "Not Available"
       },
       "dummy@gmail-com4": {
-        "Name": "Ms. Rubaiya Binte Hussain",
-        "Designation": "Lecturer",
-        "Email": "dummy@gmail.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051049.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Rubaiya Binte Hussain",
+        "designation": "Lecturer",
+        "email": "dummy@gmail.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051049.jpeg",
+        "phone": "Not Available"
       },
       "shahabeee_06@yahoo-com": {
-        "Name": "Mr. Md. Abu Shahab Mollah",
-        "Designation": "Lecturer",
-        "Email": "shahabeee_06@yahoo.com",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051088.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Abu Shahab Mollah",
+        "designation": "Lecturer",
+        "email": "shahabeee_06@yahoo.com",
+        "img": "https://www.aust.edu/storage/faculty_photo/051088.jpeg",
+        "phone": "Not Available"
       },
       "naznin_buet-eee@aust-edu": {
-        "Name": "Ms. Naznin Sultana",
-        "Designation": "Lecturer",
-        "Email": "naznin_buet.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051066.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Naznin Sultana",
+        "designation": "Lecturer",
+        "email": "naznin_buet.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051066.jpeg",
+        "phone": "Not Available"
       },
       "aura-eee@aust-edu": {
-        "Name": "Ms. Shourin Rahman Aura",
-        "Designation": "Lecturer Grade-I",
-        "Email": "aura.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051072.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Shourin Rahman Aura",
+        "designation": "Lecturer Grade-I",
+        "email": "aura.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051072.jpeg",
+        "phone": "Not Available"
       },
       "mushfiq-ahmed-025-eee@aust-edu": {
-        "Name": "Mr. Mushfiqul Ahmed",
-        "Designation": "Lecturer Grade-I",
-        "Email": "mushfiq.ahmed.025.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051074.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Mushfiqul Ahmed",
+        "designation": "Lecturer Grade-I",
+        "email": "mushfiq.ahmed.025.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051074.jpeg",
+        "phone": "Not Available"
       },
       "tanizamarium-eee@aust-edu": {
-        "Name": "Ms. Taniza Marium",
-        "Designation": "Lecturer",
-        "Email": "tanizamarium.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051081.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Taniza Marium",
+        "designation": "Lecturer",
+        "email": "tanizamarium.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051081.jpeg",
+        "phone": "Not Available"
       },
       "aminul-eee@aust-edu": {
-        "Name": "Mr. Md.  Aminul Islam",
-        "Designation": "Lecturer Grade-I",
-        "Email": "aminul.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051087.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md.  Aminul Islam",
+        "designation": "Lecturer Grade-I",
+        "email": "aminul.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051087.jpeg",
+        "phone": "Not Available"
       },
       "oli-eee@aust-edu": {
-        "Name": "Ms. Oli Lowna Baroi",
-        "Designation": "Lecturer Grade-I",
-        "Email": "oli.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051082.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Oli Lowna Baroi",
+        "designation": "Lecturer Grade-I",
+        "email": "oli.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051082.jpeg",
+        "phone": "Not Available"
       },
       "abrar-eee@aust-edu": {
-        "Name": "Mr. Md Shaikh Abrar Kabir",
-        "Designation": "Lecturer Grade-I",
-        "Email": "abrar.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051077.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md Shaikh Abrar Kabir",
+        "designation": "Lecturer Grade-I",
+        "email": "abrar.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051077.jpeg",
+        "phone": "Not Available"
       },
       "tyafur-eee@aust-edu": {
-        "Name": "Mr. Tyafur Rahman Pathan",
-        "Designation": "Lecturer Grade-I",
-        "Email": "tyafur.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051084.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Tyafur Rahman Pathan",
+        "designation": "Lecturer Grade-I",
+        "email": "tyafur.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051084.jpeg",
+        "phone": "Not Available"
       },
       "mamun-eee@aust-edu": {
-        "Name": "Mr. Md. Abdullah-Al-Mamun",
-        "Designation": "Lecturer Grade-I",
-        "Email": "mamun.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051078.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Abdullah-Al-Mamun",
+        "designation": "Lecturer Grade-I",
+        "email": "mamun.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051078.jpeg",
+        "phone": "Not Available"
       },
       "shihab-eee@aust-edu": {
-        "Name": "Mr. Sk. Aqiluzzaman Shihab",
-        "Designation": "Lecturer Grade-I",
-        "Email": "shihab.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051108.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Sk. Aqiluzzaman Shihab",
+        "designation": "Lecturer Grade-I",
+        "email": "shihab.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051108.jpeg",
+        "phone": "Not Available"
       },
       "fabliha-eee@aust-edu": {
-        "Name": "Ms. Fabliha Ahmed",
-        "Designation": "Lecturer Grade-I",
-        "Email": "fabliha.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051100.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Fabliha Ahmed",
+        "designation": "Lecturer Grade-I",
+        "email": "fabliha.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051100.jpeg",
+        "phone": "Not Available"
       },
       "hridi-eee@aust-edu": {
-        "Name": "Ms. Hridi Juberi",
-        "Designation": "Lecturer Grade-I",
-        "Email": "hridi.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051107.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Hridi Juberi",
+        "designation": "Lecturer Grade-I",
+        "email": "hridi.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051107.jpeg",
+        "phone": "Not Available"
       },
       "ashifur-eee@aust-edu": {
-        "Name": "Mr. Md. Ashifur Rahman",
-        "Designation": "Lecturer Grade-I",
-        "Email": "ashifur.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051111.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Md. Ashifur Rahman",
+        "designation": "Lecturer Grade-I",
+        "email": "ashifur.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051111.jpeg",
+        "phone": "Not Available"
       },
       "imran-eee@aust-edu": {
-        "Name": "Mr. Imran Rahman",
-        "Designation": "Lecturer Grade-I",
-        "Email": "imran.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051124.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Imran Rahman",
+        "designation": "Lecturer Grade-I",
+        "email": "imran.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051124.jpeg",
+        "phone": "Not Available"
       },
       "sjhamim-eee@aust-edu": {
-        "Name": "Mr. S. J. Hamim",
-        "Designation": "Lecturer Grade-I",
-        "Email": "sjhamim.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051122.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. S. J. Hamim",
+        "designation": "Lecturer Grade-I",
+        "email": "sjhamim.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051122.jpeg",
+        "phone": "Not Available"
       },
       "senjuti-eee@aust-edu": {
-        "Name": "Ms. Senjuti Rahman",
-        "Designation": "Lecturer Grade-I",
-        "Email": "senjuti.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051121.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Senjuti Rahman",
+        "designation": "Lecturer Grade-I",
+        "email": "senjuti.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051121.jpeg",
+        "phone": "Not Available"
       },
       "nayeema-eee@aust-edu": {
-        "Name": "Ms. Nayeema Hasan",
-        "Designation": "Lecturer Grade-II",
-        "Email": "nayeema.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051113.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Ms. Nayeema Hasan",
+        "designation": "Lecturer Grade-II",
+        "email": "nayeema.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051113.jpeg",
+        "phone": "Not Available"
       },
       "faisalfarhan-eee@aust-edu": {
-        "Name": "Mr. Faisal Farhan",
-        "Designation": "Lecturer Grade-II",
-        "Email": "faisalfarhan.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051115.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Faisal Farhan",
+        "designation": "Lecturer Grade-II",
+        "email": "faisalfarhan.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051115.jpeg",
+        "phone": "Not Available"
       },
       "adnanaminsiddiquee-eee@aust-edu": {
-        "Name": "Mr. Adnan Amin Siddiquee",
-        "Designation": "Lecturer Grade-II",
-        "Email": "adnanaminsiddiquee.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051116.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Adnan Amin Siddiquee",
+        "designation": "Lecturer Grade-II",
+        "email": "adnanaminsiddiquee.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051116.jpeg",
+        "phone": "Not Available"
       },
       "nafiz-eee@aust-edu": {
-        "Name": "Mr. Nafiz Imtiaz",
-        "Designation": "Lecturer Grade-II",
-        "Email": "nafiz.eee@aust.edu",
-        "Imagelink": "https://www.aust.edu/storage/faculty_photo/051118.jpeg",
-        "Phone Number": "Not Available"
+        "name": "Mr. Nafiz Imtiaz",
+        "designation": "Lecturer Grade-II",
+        "email": "nafiz.eee@aust.edu",
+        "img": "https://www.aust.edu/storage/faculty_photo/051118.jpeg",
+        "phone": "Not Available"
       }
 
     }
+
   }
 }
