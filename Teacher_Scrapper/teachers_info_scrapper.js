@@ -2,15 +2,23 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const departmentName = 'te'
+const departmentName = 'Ipe'
 const fileName = 'teachers_info_' + departmentName + '.csv';
-const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members'
+//const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members'
+
+ //!FOR ME 
+// const WebsiteLink = 'https://www.aust.edu/mpe/faculty_members_me'
+
+//! FOR IPE
+const WebsiteLink = 'https://aust.edu/mpe/faculty_members_ipe'
+
+
 
 
 const writeStream = fs.createWriteStream(fileName);
 
 
-writeStream.write(`name,designation,email,img,phone\n`);
+writeStream.write(`Name,Designation,Email,Imagelink,PhoneNumber\n`);
 
 
 request(WebsiteLink, (error, response, html) => {

@@ -6,8 +6,8 @@ const csv = require('csv-parser'); // CSV parsing module
 
 
 // Provide input and output files name
-const input_file_name = 'teachers_info_te.csv';
-const output_file_name = 'teachers_info_te.json';
+const input_file_name = 'teachers_info_Ipe.csv';
+const output_file_name = 'teachers_info_Ipe.json';
 
 
 let mainObj = {};
