@@ -10,7 +10,7 @@ const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members
 const writeStream = fs.createWriteStream(fileName);
 
 
-writeStream.write(`Name,Designation,Email,Imagelink,Phone Number\n`);
+writeStream.write(`name,designation,email,img,phone\n`);
 
 
 request(WebsiteLink, (error, response, html) => {

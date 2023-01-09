@@ -17,11 +17,11 @@ fs.createReadStream(input_file_name)
   .on('data', (row) => {
     const obj = {
       [row.Email?.replace(/\./g, '-')]: {
-        Name: row.Name,
-        Designation: row.Designation,
-        Email: row.Email,
-        Imagelink: row.Imagelink,
-        PhoneNumber: row.PhoneNumber,
+        name: row.Name,
+        designation: row.Designation,
+        email: row.Email,
+        img: row.Imagelink,
+        phone: row.PhoneNumber
       },
     };
     mainObj = {
