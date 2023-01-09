@@ -1,4 +1,6 @@
 // This module will convert teachers data found in csv to json in the way needed in firebase (email as key with . replaced with _)
+
+//! The code is done by https://github.com/s-m-arafat
 const fs = require('fs'); // File system module
 const csv = require('csv-parser'); // CSV parsing module
 
