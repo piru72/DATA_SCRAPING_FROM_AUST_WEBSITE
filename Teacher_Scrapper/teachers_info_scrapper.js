@@ -2,7 +2,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const departmentName = 'as'
+const departmentName = 'ce'
 const fileName = 'teachers_info_' + departmentName + '.csv';
 const WebsiteLink = 'https://www.aust.edu/' + departmentName + '/faculty_members'
 
@@ -32,8 +32,15 @@ request(WebsiteLink, (error, response, html) => {
             const designation = $(el).find('.card-text').text().trim();
 
             var email = "Not Available"
-            if ($(el).find('.fac_email').text().trim() != "")
-                email = $(el).find('.fac_email').text().trim();
+
+            //! FOR CE ONLY AS THEY HAVE MULTIPLE MAIL
+            if ($(el).find('.fac_emails').children('li').text().trim() != "")
+                email = $(el).find('.fac_emails').children('li').text().trim();
+
+                var finalEmail =  email.split(' ')[0]
+                email = finalEmail
+            // if ($(el).find('.fac_email').text().trim() != "")
+            //     email = $(el).find('.fac_email').text().trim();
 
             const img = $(el).children('img').attr('src');
             const phone = 'Not Available'
